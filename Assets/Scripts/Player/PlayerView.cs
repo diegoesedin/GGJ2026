@@ -4,7 +4,7 @@ using UnityEngine;
 public class PlayerView : MonoBehaviour, IPlayerView
 {
     public Transform Transform => transform;
-    
+
     [Header("Settings")]
     [SerializeField] private float _moveSpeed = 5f;
 
@@ -15,13 +15,17 @@ public class PlayerView : MonoBehaviour, IPlayerView
     private Rigidbody2D _rb;
     private PlayerController _controller;
     private Vector2 _currentVelocity;
+    private PlayerInteraction _playerInteraction;
 
     private void Awake()
     {
         _rb = GetComponent<Rigidbody2D>();
-        
+        _playerInteraction = GetComponent<PlayerInteraction>();
+
         // Dependency Injection: We inject "this" (the view) into the controller
         _controller = new PlayerController(this, _moveSpeed);
+
+        _controller.OnLeftClick.AddListener(_playerInteraction.ChangeMask);
     }
 
     private void OnDestroy()

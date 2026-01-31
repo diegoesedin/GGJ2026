@@ -1,6 +1,7 @@
 using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Events;
 
 public class PlayerController
 {
@@ -10,41 +11,37 @@ public class PlayerController
     private readonly float _speed;
     
     // Input Actions defined in code (no need for external asset file for this simple setup)
-    private InputAction _moveAction;
+    private InputAction _clickAction;
     
     private Camera _mainCamera;
+    public UnityEvent OnLeftClick = new();
 
     public PlayerController(IPlayerView view, float speed)
     {
         _view = view;
         _speed = speed;
         _mainCamera = Camera.main;
-        //InitializeInput();
+        InitializeInput();
     }
 
-    [Obsolete("Moved to mouse follow")]
     private void InitializeInput()
     {
-        // Define a 2D Vector composite binding (WASD + Arrow Keys + Gamepad Left Stick)
-        _moveAction = new InputAction("Move", binding: "<Gamepad>/leftStick");
-        _moveAction.AddCompositeBinding("Dpad")
-            .With("Up", "<Keyboard>/w")
-            .With("Up", "<Keyboard>/upArrow")
-            .With("Down", "<Keyboard>/s")
-            .With("Down", "<Keyboard>/downArrow")
-            .With("Left", "<Keyboard>/a")
-            .With("Left", "<Keyboard>/leftArrow")
-            .With("Right", "<Keyboard>/d")
-            .With("Right", "<Keyboard>/rightArrow");
+        // Click for switching mask
+        _clickAction = new InputAction("SwitchMask", binding: "<Mouse>/leftButton");
+        _clickAction.Enable();
+        _clickAction.performed += ctx => LeftMouseClicked();
+    }
 
-        _moveAction.Enable();
+    private void LeftMouseClicked()
+    {
+        OnLeftClick?.Invoke();
     }
 
     // Must be called to clean up inputs when the object is destroyed
     public void Dispose()
     {
-        _moveAction?.Disable();
-        _moveAction?.Dispose();
+        _clickAction?.Disable();
+        _clickAction?.Dispose();
     }
 
     public void Tick()
@@ -70,7 +67,7 @@ public class PlayerController
         }
         _view.UpdateVisuals(direction, shouldMove);
     }
-
+    /*
     [Obsolete("Using mouse")]
     private void MoveWithInput()
     {
@@ -97,5 +94,5 @@ public class PlayerController
         var result = matrix.MultiplyPoint3x4(input);
         
         return result.normalized;
-    }
+    }*/
 }
