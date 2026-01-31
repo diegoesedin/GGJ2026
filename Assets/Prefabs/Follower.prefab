@@ -57,7 +57,7 @@ MonoBehaviour:
       m_Bits: 64
   SpriteRenderer: {fileID: 5012650784683697960}
   MaskType: 0
-  IsMaskless: 0
+  IsMaskless: 1
 --- !u!212 &5012650784683697960
 SpriteRenderer:
   serializedVersion: 2
