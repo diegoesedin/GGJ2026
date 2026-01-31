@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8475418873667822232}
   - component: {fileID: 6351682439797259087}
+  - component: {fileID: 8368495952849100987}
   - component: {fileID: 4524167926381805537}
   - component: {fileID: 4129794693318166465}
   - component: {fileID: 7830784834144546770}
@@ -50,6 +51,21 @@ MonoBehaviour:
   _moveSpeed: 5
   _spriteRenderer: {fileID: 4524167926381805537}
   _animator: {fileID: 0}
+--- !u!114 &8368495952849100987
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4606622898635744680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 752b973bd221e5a4f83b7ef90121d975, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerInteraction
+  FollowerNumber: 0
+  CurrentMaskType: 0
+  _renderer: {fileID: 4524167926381805537}
 --- !u!212 &4524167926381805537
 SpriteRenderer:
   serializedVersion: 2

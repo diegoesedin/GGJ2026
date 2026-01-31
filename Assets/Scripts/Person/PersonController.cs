@@ -9,12 +9,16 @@ public class PersonController
     private bool _isRecruited = false;
     private Transform _targetToFollow;
     private Vector2 _currentVelocity; // Helper for SmoothDamp
+    private PlayerInteraction _playerInteraction;
+    private PersonView _personView;
 
     // Constructor injection
-    public PersonController(IPersonView view, PersonSettings settings)
+    public PersonController(IPersonView view, PersonSettings settings, PlayerInteraction playerInteraction)
     {
         _view = view;
+        _personView = (PersonView)view;
         _settings = settings;
+        _playerInteraction = playerInteraction;
     }
 
     // Logic usually called in Update
@@ -42,12 +46,13 @@ public class PersonController
 
         if (hit != null)
         {
-            Recruit(hit.transform);
+            AttemptRecruit(hit.transform);
         }
     }
 
-    private void Recruit(Transform leader)
+    private void AttemptRecruit(Transform leader)
     {
+        _playerInteraction.CalculateEncounter(_personView);
         _isRecruited = true;
         _targetToFollow = leader;
         _view.OnRecruited();
