@@ -12,6 +12,7 @@ public class PersonView : MonoBehaviour, IPersonView
     private PersonController _controller;
     private Rigidbody2D _rb;
     public MaskType MaskType;
+    public bool IsMaskless;
 
     #region Unity Lifecycle
 
