@@ -5,6 +5,7 @@ public class PersonView : MonoBehaviour, IPersonView
 {
     [Header("Configuration")]
     [SerializeField] private PersonSettings _settings;
+    [SerializeField] private Transform _target;
     
     [Header("Visuals")]
     public SpriteRenderer SpriteRenderer;
@@ -21,7 +22,7 @@ public class PersonView : MonoBehaviour, IPersonView
         _rb = GetComponent<Rigidbody2D>();
         
         // Initialize Controller
-        _controller = new PersonController(this, _settings, FindAnyObjectByType<PlayerInteraction>());
+        _controller = new PersonController(this, _settings, FindAnyObjectByType<PlayerInteraction>(), _target);
         
         // Physics Setup for Smooth Movement
         _rb.gravityScale = 0;
