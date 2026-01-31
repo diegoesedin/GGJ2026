@@ -10,7 +10,7 @@ public class PlayerInteraction : MonoBehaviour
 
     public void CalculateEncounter(PersonView person)
     {
-        if (IsConversion(CurrentMaskType, person.MaskType))
+        if (person.IsMaskless || IsConversion(CurrentMaskType, person.MaskType))
         {
             AddFollower(person);
             person.SpriteRenderer.color = MaskColor(CurrentMaskType);
