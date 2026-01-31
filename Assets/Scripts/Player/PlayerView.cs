@@ -57,16 +57,10 @@ public class PlayerView : MonoBehaviour, IPlayerView
     {
         if (_animator != null)
         {
-            _animator.SetBool("IsMoving", isMoving);
+            //_animator.SetBool("IsMoving", isMoving);
             // If you have Blend Trees:
-            // _animator.SetFloat("InputX", direction.x);
-            // _animator.SetFloat("InputY", direction.y);
-        }
-
-        // Flip Sprite based on X direction
-        if (direction.x != 0 && _spriteRenderer != null)
-        {
-            _spriteRenderer.flipX = direction.x < 0;
+            _animator.SetFloat("InputX", direction.x);
+            _animator.SetFloat("InputY", direction.y);
         }
     }
 

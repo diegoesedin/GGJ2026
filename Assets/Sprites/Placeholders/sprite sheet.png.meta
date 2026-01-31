@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 63c444613e9194348a8ab7c7acb3bd8b
+guid: 55d7ef7232fef0c42bf1d78b392fb714
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -291,32 +291,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -324,12 +298,12 @@ TextureImporter:
       name: sprite sheet_0
       rect:
         serializedVersion: 2
-        x: 59
-        y: 2181
-        width: 104
-        height: 260
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -346,12 +320,12 @@ TextureImporter:
       name: sprite sheet_1
       rect:
         serializedVersion: 2
-        x: 282
-        y: 2205
-        width: 109
-        height: 240
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 230
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -368,12 +342,12 @@ TextureImporter:
       name: sprite sheet_2
       rect:
         serializedVersion: 2
-        x: 505
-        y: 2220
-        width: 109
-        height: 231
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 460
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -390,12 +364,12 @@ TextureImporter:
       name: sprite sheet_3
       rect:
         serializedVersion: 2
-        x: 742
-        y: 2224
-        width: 117
-        height: 227
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 690
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -412,12 +386,12 @@ TextureImporter:
       name: sprite sheet_4
       rect:
         serializedVersion: 2
-        x: 971
-        y: 2209
-        width: 111
-        height: 231
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 920
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -434,12 +408,12 @@ TextureImporter:
       name: sprite sheet_5
       rect:
         serializedVersion: 2
-        x: 1203
-        y: 2191
-        width: 110
-        height: 264
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1150
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -456,12 +430,12 @@ TextureImporter:
       name: sprite sheet_6
       rect:
         serializedVersion: 2
-        x: 1436
-        y: 2220
-        width: 110
-        height: 236
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1380
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -478,12 +452,12 @@ TextureImporter:
       name: sprite sheet_7
       rect:
         serializedVersion: 2
-        x: 1661
-        y: 2220
-        width: 119
-        height: 231
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1610
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -500,12 +474,12 @@ TextureImporter:
       name: sprite sheet_8
       rect:
         serializedVersion: 2
-        x: 32
-        y: 1884
-        width: 153
-        height: 235
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -522,12 +496,12 @@ TextureImporter:
       name: sprite sheet_9
       rect:
         serializedVersion: 2
-        x: 267
-        y: 1884
-        width: 148
-        height: 246
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 230
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -544,12 +518,12 @@ TextureImporter:
       name: sprite sheet_10
       rect:
         serializedVersion: 2
-        x: 519
-        y: 1880
-        width: 107
-        height: 213
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 460
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -566,12 +540,12 @@ TextureImporter:
       name: sprite sheet_11
       rect:
         serializedVersion: 2
-        x: 749
-        y: 1883
-        width: 124
-        height: 254
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 690
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -588,12 +562,12 @@ TextureImporter:
       name: sprite sheet_12
       rect:
         serializedVersion: 2
-        x: 962
-        y: 1915
-        width: 167
-        height: 199
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 920
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -610,12 +584,12 @@ TextureImporter:
       name: sprite sheet_13
       rect:
         serializedVersion: 2
-        x: 1199
-        y: 1874
-        width: 154
-        height: 253
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1150
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -632,12 +606,12 @@ TextureImporter:
       name: sprite sheet_14
       rect:
         serializedVersion: 2
-        x: 1429
-        y: 1847
-        width: 128
-        height: 283
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1380
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -654,12 +628,12 @@ TextureImporter:
       name: sprite sheet_15
       rect:
         serializedVersion: 2
-        x: 1642
-        y: 1909
-        width: 139
-        height: 239
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1610
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -676,12 +650,12 @@ TextureImporter:
       name: sprite sheet_16
       rect:
         serializedVersion: 2
-        x: 26
-        y: 1581
-        width: 159
-        height: 216
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -698,12 +672,12 @@ TextureImporter:
       name: sprite sheet_17
       rect:
         serializedVersion: 2
-        x: 218
-        y: 1568
-        width: 193
-        height: 277
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 230
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -720,12 +694,12 @@ TextureImporter:
       name: sprite sheet_18
       rect:
         serializedVersion: 2
-        x: 516
-        y: 1581
-        width: 113
-        height: 214
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 460
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -742,12 +716,12 @@ TextureImporter:
       name: sprite sheet_19
       rect:
         serializedVersion: 2
-        x: 737
-        y: 1577
-        width: 122
-        height: 246
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 690
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -764,12 +738,12 @@ TextureImporter:
       name: sprite sheet_20
       rect:
         serializedVersion: 2
-        x: 946
-        y: 1604
-        width: 176
-        height: 201
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 920
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -786,12 +760,12 @@ TextureImporter:
       name: sprite sheet_21
       rect:
         serializedVersion: 2
-        x: 1190
-        y: 1579
-        width: 152
-        height: 246
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1150
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -808,12 +782,12 @@ TextureImporter:
       name: sprite sheet_22
       rect:
         serializedVersion: 2
-        x: 1414
-        y: 1572
-        width: 158
-        height: 243
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1380
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -830,12 +804,12 @@ TextureImporter:
       name: sprite sheet_23
       rect:
         serializedVersion: 2
-        x: 1643
-        y: 1572
-        width: 145
-        height: 244
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1610
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -852,12 +826,12 @@ TextureImporter:
       name: sprite sheet_24
       rect:
         serializedVersion: 2
-        x: 40
-        y: 1283
-        width: 158
-        height: 198
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -874,12 +848,12 @@ TextureImporter:
       name: sprite sheet_25
       rect:
         serializedVersion: 2
-        x: 264
-        y: 1284
-        width: 159
-        height: 228
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 230
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -896,12 +870,12 @@ TextureImporter:
       name: sprite sheet_26
       rect:
         serializedVersion: 2
-        x: 525
-        y: 1281
-        width: 100
-        height: 208
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 460
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -918,12 +892,12 @@ TextureImporter:
       name: sprite sheet_27
       rect:
         serializedVersion: 2
-        x: 730
-        y: 1274
-        width: 117
-        height: 240
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 690
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -940,12 +914,12 @@ TextureImporter:
       name: sprite sheet_28
       rect:
         serializedVersion: 2
-        x: 944
-        y: 1257
-        width: 180
-        height: 232
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 920
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -962,12 +936,12 @@ TextureImporter:
       name: sprite sheet_29
       rect:
         serializedVersion: 2
-        x: 1179
-        y: 1273
-        width: 141
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1150
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -984,12 +958,12 @@ TextureImporter:
       name: sprite sheet_30
       rect:
         serializedVersion: 2
-        x: 1435
-        y: 1272
-        width: 104
-        height: 235
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1380
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1006,12 +980,12 @@ TextureImporter:
       name: sprite sheet_31
       rect:
         serializedVersion: 2
-        x: 1589
-        y: 1300
-        width: 11
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1610
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1028,12 +1002,12 @@ TextureImporter:
       name: sprite sheet_32
       rect:
         serializedVersion: 2
-        x: 1644
-        y: 1273
-        width: 135
-        height: 242
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 930
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1050,12 +1024,12 @@ TextureImporter:
       name: sprite sheet_33
       rect:
         serializedVersion: 2
-        x: 52
-        y: 961
-        width: 108
-        height: 224
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 230
+        y: 930
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1072,12 +1046,12 @@ TextureImporter:
       name: sprite sheet_34
       rect:
         serializedVersion: 2
-        x: 291
-        y: 964
-        width: 110
-        height: 241
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 460
+        y: 930
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1094,12 +1068,12 @@ TextureImporter:
       name: sprite sheet_35
       rect:
         serializedVersion: 2
-        x: 512
-        y: 961
-        width: 108
-        height: 240
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 690
+        y: 930
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1116,12 +1090,12 @@ TextureImporter:
       name: sprite sheet_36
       rect:
         serializedVersion: 2
-        x: 751
-        y: 956
-        width: 122
-        height: 268
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 920
+        y: 930
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1138,12 +1112,12 @@ TextureImporter:
       name: sprite sheet_37
       rect:
         serializedVersion: 2
-        x: 984
-        y: 956
-        width: 105
-        height: 221
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1150
+        y: 930
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1160,12 +1134,12 @@ TextureImporter:
       name: sprite sheet_38
       rect:
         serializedVersion: 2
-        x: 1199
-        y: 951
-        width: 111
-        height: 243
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1380
+        y: 930
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1182,12 +1156,12 @@ TextureImporter:
       name: sprite sheet_39
       rect:
         serializedVersion: 2
-        x: 1432
-        y: 959
-        width: 110
-        height: 243
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1610
+        y: 930
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1204,12 +1178,12 @@ TextureImporter:
       name: sprite sheet_40
       rect:
         serializedVersion: 2
-        x: 1644
-        y: 951
-        width: 120
-        height: 259
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 620
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1226,12 +1200,12 @@ TextureImporter:
       name: sprite sheet_41
       rect:
         serializedVersion: 2
-        x: 32
-        y: 663
-        width: 158
-        height: 198
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 230
+        y: 620
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1248,12 +1222,12 @@ TextureImporter:
       name: sprite sheet_42
       rect:
         serializedVersion: 2
-        x: 267
-        y: 664
-        width: 159
-        height: 228
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 460
+        y: 620
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1270,12 +1244,12 @@ TextureImporter:
       name: sprite sheet_43
       rect:
         serializedVersion: 2
-        x: 526
-        y: 661
-        width: 100
-        height: 208
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 690
+        y: 620
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1292,12 +1266,12 @@ TextureImporter:
       name: sprite sheet_44
       rect:
         serializedVersion: 2
-        x: 763
-        y: 654
-        width: 117
-        height: 240
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 920
+        y: 620
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1314,12 +1288,12 @@ TextureImporter:
       name: sprite sheet_45
       rect:
         serializedVersion: 2
-        x: 947
-        y: 637
-        width: 190
-        height: 260
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1150
+        y: 620
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1336,12 +1310,12 @@ TextureImporter:
       name: sprite sheet_46
       rect:
         serializedVersion: 2
-        x: 1210
-        y: 632
-        width: 141
-        height: 246
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1380
+        y: 620
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1358,12 +1332,12 @@ TextureImporter:
       name: sprite sheet_47
       rect:
         serializedVersion: 2
-        x: 1393
-        y: 680
-        width: 10
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1610
+        y: 620
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1380,12 +1354,12 @@ TextureImporter:
       name: sprite sheet_48
       rect:
         serializedVersion: 2
-        x: 1453
-        y: 652
-        width: 104
-        height: 235
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 310
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1402,12 +1376,12 @@ TextureImporter:
       name: sprite sheet_49
       rect:
         serializedVersion: 2
-        x: 1673
-        y: 653
-        width: 135
-        height: 242
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 230
+        y: 310
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1424,12 +1398,12 @@ TextureImporter:
       name: sprite sheet_50
       rect:
         serializedVersion: 2
-        x: 44
-        y: 341
-        width: 159
-        height: 216
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 460
+        y: 310
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1446,12 +1420,12 @@ TextureImporter:
       name: sprite sheet_51
       rect:
         serializedVersion: 2
-        x: 279
-        y: 329
-        width: 170
-        height: 255
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 690
+        y: 310
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1468,12 +1442,12 @@ TextureImporter:
       name: sprite sheet_52
       rect:
         serializedVersion: 2
-        x: 522
-        y: 341
-        width: 113
-        height: 214
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 920
+        y: 310
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1490,12 +1464,12 @@ TextureImporter:
       name: sprite sheet_53
       rect:
         serializedVersion: 2
-        x: 752
-        y: 337
-        width: 122
-        height: 246
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1150
+        y: 310
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1512,12 +1486,12 @@ TextureImporter:
       name: sprite sheet_54
       rect:
         serializedVersion: 2
-        x: 949
-        y: 364
-        width: 176
-        height: 201
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1380
+        y: 310
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1534,12 +1508,12 @@ TextureImporter:
       name: sprite sheet_55
       rect:
         serializedVersion: 2
-        x: 1189
-        y: 320
-        width: 166
-        height: 265
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1610
+        y: 310
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1556,12 +1530,12 @@ TextureImporter:
       name: sprite sheet_56
       rect:
         serializedVersion: 2
-        x: 1418
-        y: 332
-        width: 158
-        height: 243
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1578,12 +1552,12 @@ TextureImporter:
       name: sprite sheet_57
       rect:
         serializedVersion: 2
-        x: 1664
-        y: 320
-        width: 145
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 230
+        y: 0
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1600,12 +1574,12 @@ TextureImporter:
       name: sprite sheet_58
       rect:
         serializedVersion: 2
-        x: 46
-        y: 24
-        width: 153
-        height: 235
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 460
+        y: 0
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1622,12 +1596,12 @@ TextureImporter:
       name: sprite sheet_59
       rect:
         serializedVersion: 2
-        x: 275
-        y: 24
-        width: 148
-        height: 246
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 690
+        y: 0
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1644,12 +1618,12 @@ TextureImporter:
       name: sprite sheet_60
       rect:
         serializedVersion: 2
-        x: 524
-        y: 20
-        width: 107
-        height: 213
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 920
+        y: 0
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1666,12 +1640,12 @@ TextureImporter:
       name: sprite sheet_61
       rect:
         serializedVersion: 2
-        x: 738
-        y: 23
-        width: 124
-        height: 254
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1150
+        y: 0
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1688,12 +1662,12 @@ TextureImporter:
       name: sprite sheet_62
       rect:
         serializedVersion: 2
-        x: 942
-        y: 55
-        width: 167
-        height: 199
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1380
+        y: 0
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1710,12 +1684,12 @@ TextureImporter:
       name: sprite sheet_63
       rect:
         serializedVersion: 2
-        x: 1178
-        y: 12
-        width: 154
-        height: 255
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1610
+        y: 0
+        width: 230
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1728,55 +1702,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: sprite sheet_64
-      rect:
-        serializedVersion: 2
-        x: 1434
-        y: 8
-        width: 129
-        height: 262
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fdbd4ed0714195430800000000000000
-      internalID: 3772068252149406687
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite sheet_65
-      rect:
-        serializedVersion: 2
-        x: 1670
-        y: 49
-        width: 139
-        height: 239
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f6494a628e25bcdd0800000000000000
-      internalID: -2464785214021004177
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 811bf91cc0271f040a1670b472d5e731
     internalID: 0
     vertices: []
     indices: 
@@ -1784,7 +1714,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":230.0,"y":310.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       sprite sheet_0: -5207231776682384544
       sprite sheet_1: -8533962960574808602
@@ -1847,8 +1779,6 @@ TextureImporter:
       sprite sheet_61: -8831660021776404739
       sprite sheet_62: 4201746551955297605
       sprite sheet_63: -6494216270127332519
-      sprite sheet_64: 3772068252149406687
-      sprite sheet_65: -2464785214021004177
       sprite sheet_7: 8338297180362019975
       sprite sheet_8: -5662007422927484889
       sprite sheet_9: -6803488741268343020
