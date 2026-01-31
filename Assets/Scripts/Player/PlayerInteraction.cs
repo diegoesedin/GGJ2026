@@ -1,19 +1,21 @@
 using UnityEngine;
 using System.Collections.Generic;
 
-public class PlayerInteraction : MonoBehaviour
+public class PlayerInteraction : MonoBehaviour, IMaskHolder
 {
     public int FollowerNumber;
     public MaskType CurrentMaskType;
     [SerializeField] private SpriteRenderer _renderer;
     private List<PersonView> _people = new List<PersonView>();
 
+    public MaskType MaskType => CurrentMaskType;
+
     public void CalculateEncounter(PersonView person)
     {
-        if (person.IsMaskless || IsConversion(CurrentMaskType, person.MaskType))
+        if (person.IsMaskless || IsConversion(CurrentMaskType, person.CurrentMaskType))
         {
             AddFollower(person);
-            person.SpriteRenderer.color = MaskColor(CurrentMaskType);
+            person.SpriteRenderer.color = MaskColor.GetMaskColor(CurrentMaskType);
         }
         else
         {
@@ -54,30 +56,15 @@ public class PlayerInteraction : MonoBehaviour
     public void ChangeMask()
     {
         CurrentMaskType = (MaskType)(((int)CurrentMaskType + 1) % 4);
-        _renderer.color = MaskColor(CurrentMaskType);
+        _renderer.color = MaskColor.GetMaskColor(CurrentMaskType);
         foreach (var person in _people)
         {
-            //person.MaskType = CurrentMaskType;
-            person.GetComponent<SpriteRenderer>().color = MaskColor(CurrentMaskType);
+            //person.CurrentMaskType = CurrentMaskType;
+            person.GetComponent<SpriteRenderer>().color = MaskColor.GetMaskColor(CurrentMaskType);
         }
     }
 
-    private Color MaskColor(MaskType maskType)
-    {
-        switch (maskType)
-        {
-            case MaskType.Red:
-                return Color.red;
-            case MaskType.Green:
-                return Color.green;
-            case MaskType.Blue:
-                return Color.blue;
-            case MaskType.Yellow:
-                return Color.yellow;
-            default:
-                return Color.white;
-        }
-    }
+    
 }
 
 

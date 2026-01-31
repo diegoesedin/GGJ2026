@@ -15,10 +15,12 @@ public class PersonController
     private Vector2 _center;
     private Vector2 _randomPoint;
     private bool _stayInPlace;
+    private bool _isLeader;
+    private LayerMask _recruitLayer;
 
 
     // Constructor injection
-    public PersonController(IPersonView view, PersonSettings settings, PlayerInteraction playerInteraction, Transform leader)
+    public PersonController(IPersonView view, PersonSettings settings, PlayerInteraction playerInteraction, Transform leader, bool isLeader)
     {
         _view = view;
         _personView = (PersonView)view;
@@ -26,6 +28,7 @@ public class PersonController
         _playerInteraction = playerInteraction;
         _center = _view.CurrentPosition;
         _targetToFollow = leader;
+        _isLeader = isLeader;
     }
 
     // Logic usually called in Update
@@ -50,7 +53,9 @@ public class PersonController
     private void ScanForPlayer()
     {
         // Check surrounding area for the player
-        Collider2D hit = Physics2D.OverlapCircle(_view.CurrentPosition, _settings.DetectRange, _settings.PlayerLayer);
+        Collider2D hit;
+        if (!_isLeader && _targetToFollow == null ) hit = Physics2D.OverlapCircle(_view.CurrentPosition, _settings.DetectRange, _settings.PlayerLayer | _settings.LeaderLayer);
+        else hit = Physics2D.OverlapCircle(_view.CurrentPosition, _settings.DetectRange, _settings.PlayerLayer );
 
         if (hit != null)
         {
@@ -60,10 +65,20 @@ public class PersonController
 
     private void AttemptRecruit(Transform leader)
     {
-        _playerInteraction.CalculateEncounter(_personView);
-        _isRecruited = true;
         _targetToFollow = leader;
-        _view.OnRecruited();
+        _view.OnRecruited(leader);
+
+        if (leader.GetComponent<PlayerInteraction>() != null)
+        {
+            _isRecruited = true;
+            _playerInteraction.CalculateEncounter(_personView);
+
+        }
+        else
+        {
+            _personView.CurrentMaskType = leader.GetComponent<IMaskHolder>().MaskType;
+            _personView.SpriteRenderer.color = MaskColor.GetMaskColor(_personView.CurrentMaskType);
+        }
     }
 
     private void PerformFollowLogic()
@@ -129,4 +144,5 @@ public class PersonSettings
     public float PatrolRadius = 6.0f;
     public float PatrolPeriod = 1.5f;
     public LayerMask PlayerLayer;
+    public LayerMask LeaderLayer;
 }

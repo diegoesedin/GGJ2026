@@ -1,18 +1,19 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
-public class PersonView : MonoBehaviour, IPersonView
+public class PersonView : MonoBehaviour, IPersonView, IMaskHolder
 {
     [Header("Configuration")]
     [SerializeField] private PersonSettings _settings;
     [SerializeField] private Transform _target;
+    public bool IsLeader;
     
     [Header("Visuals")]
     public SpriteRenderer SpriteRenderer;
 
     private PersonController _controller;
     private Rigidbody2D _rb;
-    public MaskType MaskType;
+    public MaskType CurrentMaskType;
     public bool IsMaskless;
 
     #region Unity Lifecycle
@@ -22,7 +23,7 @@ public class PersonView : MonoBehaviour, IPersonView
         _rb = GetComponent<Rigidbody2D>();
         
         // Initialize Controller
-        _controller = new PersonController(this, _settings, FindAnyObjectByType<PlayerInteraction>(), _target);
+        _controller = new PersonController(this, _settings, FindAnyObjectByType<PlayerInteraction>(), _target, IsLeader);
         
         // Physics Setup for Smooth Movement
         _rb.gravityScale = 0;
@@ -55,6 +56,8 @@ public class PersonView : MonoBehaviour, IPersonView
 
     public Vector2 CurrentPosition => _rb.position;
 
+    public MaskType MaskType => CurrentMaskType;
+
     public void MoveToPosition(Vector2 targetPosition)
     {
         // MovePosition is better for kinematic/smooth movement than adding force
@@ -66,7 +69,7 @@ public class PersonView : MonoBehaviour, IPersonView
         _rb.linearVelocity = Vector2.zero;
     }
 
-    public void OnRecruited()
+    public void OnRecruited(Transform leader)
     {
         // Visual Feedback
         if (SpriteRenderer != null)
@@ -74,7 +77,7 @@ public class PersonView : MonoBehaviour, IPersonView
             SpriteRenderer.color = new Color(SpriteRenderer.color.r, SpriteRenderer.color.g, SpriteRenderer.color.b, 0.5f);
         }
         
-        transform.SetParent(null); //TODO: set proper parent: player or enemy
+        transform.SetParent(leader); //TODO: set proper parent: player or enemy
     }
 
     #endregion
