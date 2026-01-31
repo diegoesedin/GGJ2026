@@ -7,10 +7,11 @@ public class PersonView : MonoBehaviour, IPersonView
     [SerializeField] private PersonSettings _settings;
     
     [Header("Visuals")]
-    [SerializeField] private SpriteRenderer _spriteRenderer;
+    public SpriteRenderer SpriteRenderer;
 
     private PersonController _controller;
     private Rigidbody2D _rb;
+    public MaskType MaskType;
 
     #region Unity Lifecycle
 
@@ -19,7 +20,7 @@ public class PersonView : MonoBehaviour, IPersonView
         _rb = GetComponent<Rigidbody2D>();
         
         // Initialize Controller
-        _controller = new PersonController(this, _settings);
+        _controller = new PersonController(this, _settings, FindAnyObjectByType<PlayerInteraction>());
         
         // Physics Setup for Smooth Movement
         _rb.gravityScale = 0;
@@ -66,9 +67,9 @@ public class PersonView : MonoBehaviour, IPersonView
     public void OnRecruited()
     {
         // Visual Feedback
-        if (_spriteRenderer != null)
+        if (SpriteRenderer != null)
         {
-            _spriteRenderer.color = Color.green; // Or play a particle effect
+            SpriteRenderer.color = new Color(SpriteRenderer.color.r, SpriteRenderer.color.g, SpriteRenderer.color.b, 0.5f);
         }
     }
 

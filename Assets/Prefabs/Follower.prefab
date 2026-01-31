@@ -55,7 +55,8 @@ MonoBehaviour:
     PlayerLayer:
       serializedVersion: 2
       m_Bits: 64
-  _spriteRenderer: {fileID: 5012650784683697960}
+  SpriteRenderer: {fileID: 5012650784683697960}
+  MaskType: 0
 --- !u!212 &5012650784683697960
 SpriteRenderer:
   serializedVersion: 2
