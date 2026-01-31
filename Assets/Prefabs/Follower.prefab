@@ -51,12 +51,13 @@ MonoBehaviour:
     DetectRange: 2
     FollowSpeed: 5
     SmoothTime: 0.2
-    StoppingDistance: 0.8
+    StoppingDistance: 2
     PlayerLayer:
       serializedVersion: 2
       m_Bits: 64
   SpriteRenderer: {fileID: 5012650784683697960}
   MaskType: 0
+  IsMaskless: 0
 --- !u!212 &5012650784683697960
 SpriteRenderer:
   serializedVersion: 2

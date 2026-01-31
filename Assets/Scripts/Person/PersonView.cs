@@ -72,6 +72,8 @@ public class PersonView : MonoBehaviour, IPersonView
         {
             SpriteRenderer.color = new Color(SpriteRenderer.color.r, SpriteRenderer.color.g, SpriteRenderer.color.b, 0.5f);
         }
+        
+        transform.SetParent(null); //TODO: set proper parent: player or enemy
     }
 
     #endregion
