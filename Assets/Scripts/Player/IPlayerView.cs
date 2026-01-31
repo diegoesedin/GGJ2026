@@ -2,6 +2,7 @@ using UnityEngine;
 
 public interface IPlayerView
 {
+    Transform Transform { get; }
     // The Controller doesn't care about Rigidbodies, it just sends velocity.
     void Move(Vector2 velocity);
     
