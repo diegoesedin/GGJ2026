@@ -3,6 +3,8 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerView : MonoBehaviour, IPlayerView
 {
+    public Transform Transform => transform;
+    
     [Header("Settings")]
     [SerializeField] private float _moveSpeed = 5f;
 
