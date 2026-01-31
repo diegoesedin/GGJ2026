@@ -11,14 +11,21 @@ public class PersonController
     private Vector2 _currentVelocity; // Helper for SmoothDamp
     private PlayerInteraction _playerInteraction;
     private PersonView _personView;
+    private float _moveTimer;
+    private Vector2 _center;
+    private Vector2 _randomPoint;
+    private bool _stayInPlace;
+
 
     // Constructor injection
-    public PersonController(IPersonView view, PersonSettings settings, PlayerInteraction playerInteraction)
+    public PersonController(IPersonView view, PersonSettings settings, PlayerInteraction playerInteraction, Transform leader)
     {
         _view = view;
         _personView = (PersonView)view;
         _settings = settings;
         _playerInteraction = playerInteraction;
+        _center = _view.CurrentPosition;
+        _targetToFollow = leader;
     }
 
     // Logic usually called in Update
@@ -33,10 +40,11 @@ public class PersonController
     // Physics logic usually called in FixedUpdate
     public void FixedTick()
     {
-        if (_isRecruited && _targetToFollow != null)
+        if (_targetToFollow != null)
         {
             PerformFollowLogic();
         }
+        else Patrol();
     }
 
     private void ScanForPlayer()
@@ -83,6 +91,31 @@ public class PersonController
             _view.StopMovement();
         }
     }
+
+    private void Patrol()
+    {
+        if (_moveTimer <= 0f)
+        {
+            _moveTimer = _settings.PatrolPeriod * Random.Range(0f, 1f);
+            _stayInPlace = !_stayInPlace;
+            _randomPoint = _center + Random.insideUnitCircle * _settings.PatrolRadius;
+        }
+        else
+        {
+            _moveTimer -= Time.fixedDeltaTime;
+        }
+        // Simple random patrol logic within a radius
+        if (_stayInPlace) return;
+        Vector2 nextPos = Vector2.SmoothDamp(
+            _view.CurrentPosition,
+            _randomPoint,
+            ref _currentVelocity,
+            _settings.SmoothTime,
+            _settings.FollowSpeed / 2 // Slower speed for patrolling
+        );
+        _view.MoveToPosition(nextPos);
+
+    }
 }
 
 // Simple data class to keep the constructor clean
@@ -93,5 +126,7 @@ public class PersonSettings
     public float FollowSpeed = 5.0f;
     public float SmoothTime = 0.2f;
     public float StoppingDistance = 0.8f;
+    public float PatrolRadius = 6.0f;
+    public float PatrolPeriod = 1.5f;
     public LayerMask PlayerLayer;
 }

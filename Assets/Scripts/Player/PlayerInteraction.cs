@@ -41,6 +41,7 @@ public class PlayerInteraction : MonoBehaviour
 
     private void LoseGame()
     {
+        FindAnyObjectByType<GameOverMenu>( FindObjectsInactive.Include).gameObject.SetActive(true);
         Destroy(gameObject);
         Debug.Log("Game Over");
     }

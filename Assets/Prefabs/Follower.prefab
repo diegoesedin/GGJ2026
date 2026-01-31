@@ -48,15 +48,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PersonView
   _settings:
-    DetectRange: 2
+    DetectRange: 1
     FollowSpeed: 5
     SmoothTime: 0.2
     StoppingDistance: 0.8
+    PatrolRadius: 6
+    PatrolPeriod: 1.5
     PlayerLayer:
       serializedVersion: 2
       m_Bits: 64
+  _target: {fileID: 0}
   SpriteRenderer: {fileID: 5012650784683697960}
   MaskType: 0
+  IsMaskless: 0
 --- !u!212 &5012650784683697960
 SpriteRenderer:
   serializedVersion: 2
