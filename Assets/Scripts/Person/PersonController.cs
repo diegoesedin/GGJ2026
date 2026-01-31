@@ -16,7 +16,6 @@ public class PersonController
     private Vector2 _randomPoint;
     private bool _stayInPlace;
     private bool _isLeader;
-    private LayerMask _recruitLayer;
 
 
     // Constructor injection
@@ -28,6 +27,7 @@ public class PersonController
         _playerInteraction = playerInteraction;
         _center = _view.CurrentPosition;
         _targetToFollow = leader;
+        if (_targetToFollow != null) _targetToFollow.GetComponent<PersonView>().FollowerNumber++;
         _isLeader = isLeader;
     }
 
@@ -47,7 +47,7 @@ public class PersonController
         {
             PerformFollowLogic();
         }
-        else Patrol();
+        else Patrol(_isLeader);
     }
 
     private void ScanForPlayer()
@@ -76,8 +76,10 @@ public class PersonController
         }
         else
         {
-            _personView.CurrentMaskType = leader.GetComponent<IMaskHolder>().MaskType;
+            PersonView view = leader.GetComponent<PersonView>();
+            _personView.CurrentMaskType = view.MaskType;
             _personView.SpriteRenderer.color = MaskColor.GetMaskColor(_personView.CurrentMaskType);
+            view.FollowerNumber++;
         }
     }
 
@@ -107,7 +109,7 @@ public class PersonController
         }
     }
 
-    private void Patrol()
+    private void Patrol(bool isLeader)
     {
         if (_moveTimer <= 0f)
         {
