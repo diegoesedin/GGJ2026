@@ -87,7 +87,9 @@ public class PersonView : MonoBehaviour, IPersonView, IMaskHolder
             SpriteRenderer.color = new Color(SpriteRenderer.color.r, SpriteRenderer.color.g, SpriteRenderer.color.b, 0.5f);
         }
         
-        transform.SetParent(leader); //TODO: set proper parent: player or enemy
+        transform.SetParent(leader);
+        
+        AudioManager.Instance.PlayRecruitSound();
     }
 
     #endregion

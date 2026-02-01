@@ -50,8 +50,8 @@ public class PlayerInteraction : MonoBehaviour, IMaskHolder
 
     private void LoseGame()
     {
-        FindAnyObjectByType<GameOverMenu>( FindObjectsInactive.Include).gameObject.SetActive(true);
-        Destroy(gameObject);
+        AudioManager.Instance.PlayDeathSound();
+        GameManager.Instance.TriggerGameOver();
         Debug.Log("Game Over");
     }
 
@@ -71,6 +71,8 @@ public class PlayerInteraction : MonoBehaviour, IMaskHolder
             //person.CurrentMaskType = CurrentMaskType;
             person.GetComponent<SpriteRenderer>().color = MaskColor.GetMaskColor(CurrentMaskType);
         }
+        
+        AudioManager.Instance.PlayChangeMaskSound();
     }
 
     private void UpdatePlayerAnimator()

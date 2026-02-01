@@ -49,8 +49,6 @@ public class GameManager : MonoBehaviour
         {
             case GameState.MainMenu:
                 HandleMainMenu();
-                // BORRAR
-                ChangeState(GameState.Playing);
                 break;
             case GameState.Playing:
                 HandlePlaying();
@@ -101,7 +99,7 @@ public class GameManager : MonoBehaviour
         if (_spawnerScript != null) 
             _spawnerScript.enabled = isActive;
             
-        // Time.timeScale = isActive ? 1 : 0;
+        Time.timeScale = isActive ? 1 : 0;
     }
     
     // UI BUTTONS
@@ -109,15 +107,18 @@ public class GameManager : MonoBehaviour
     public void OnPlayButton()
     {
         ChangeState(GameState.Playing);
+        AudioManager.Instance.PlayMenuClick();
     }
 
     public void OnRestartButton()
     {
+        AudioManager.Instance.PlayMenuClick();
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     public void OnExitButton()
     {
+        AudioManager.Instance.PlayMenuClick();
         Application.Quit();
         Debug.Log("Saliendo del juego...");
     }
