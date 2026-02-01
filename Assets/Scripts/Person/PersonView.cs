@@ -10,6 +10,7 @@ public class PersonView : MonoBehaviour, IPersonView, IMaskHolder
     
     [Header("Visuals")]
     public SpriteRenderer SpriteRenderer;
+    [SerializeField] private Animator _animator;
 
     private PersonController _controller;
     private Rigidbody2D _rb;
@@ -59,10 +60,18 @@ public class PersonView : MonoBehaviour, IPersonView, IMaskHolder
 
     public MaskType MaskType => CurrentMaskType;
 
-    public void MoveToPosition(Vector2 targetPosition)
+    public void MoveToPosition(Vector2 targetPosition, Vector2 currentVelocity)
     {
         // MovePosition is better for kinematic/smooth movement than adding force
         _rb.MovePosition(targetPosition);
+        
+        if (_animator != null)
+        {
+            //_animator.SetBool("IsMoving", isMoving);
+            // If you have Blend Trees:
+            _animator.SetFloat("InputX", currentVelocity.normalized.x);
+            _animator.SetFloat("InputY", currentVelocity.normalized.y);
+        }
     }
 
     public void StopMovement()
