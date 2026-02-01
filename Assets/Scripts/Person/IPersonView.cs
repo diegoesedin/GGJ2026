@@ -6,7 +6,7 @@ public interface IPersonView
     Vector2 CurrentPosition { get; }
 
     // Commands from Controller to View
-    void MoveToPosition(Vector2 targetPosition);
+    void MoveToPosition(Vector2 targetPosition, Vector2 currentVelocity);
     void StopMovement();
     void OnRecruited(Transform leader); // To trigger visual feedback (change color, play sound)
 }

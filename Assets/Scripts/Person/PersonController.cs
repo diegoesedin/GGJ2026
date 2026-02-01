@@ -101,7 +101,7 @@ public class PersonController
                 _settings.FollowSpeed
             );
 
-            _view.MoveToPosition(nextPos);
+            _view.MoveToPosition(nextPos, _currentVelocity);
         }
         else
         {
@@ -130,7 +130,7 @@ public class PersonController
             _settings.SmoothTime,
             _settings.FollowSpeed / 2 // Slower speed for patrolling
         );
-        _view.MoveToPosition(nextPos);
+        _view.MoveToPosition(nextPos, _currentVelocity);
 
     }
 }
