@@ -1,0 +1,1825 @@
+fileFormatVersion: 2
+guid: 8c5b4a066fa3a1c4f8b815cd359ac7c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3423917250651948646
+    second: yellow guy_0
+  - first:
+      213: 5498904952841755137
+    second: yellow guy_1
+  - first:
+      213: -4032561947886597936
+    second: yellow guy_2
+  - first:
+      213: -4523997687560058369
+    second: yellow guy_3
+  - first:
+      213: 5683614426418146950
+    second: yellow guy_4
+  - first:
+      213: -4582359654665653195
+    second: yellow guy_5
+  - first:
+      213: -5567306200961872790
+    second: yellow guy_6
+  - first:
+      213: -222463430808800762
+    second: yellow guy_7
+  - first:
+      213: 6657306969225882417
+    second: yellow guy_8
+  - first:
+      213: -5507021013765511384
+    second: yellow guy_9
+  - first:
+      213: 1783032210672918053
+    second: yellow guy_10
+  - first:
+      213: 4344462803627297848
+    second: yellow guy_11
+  - first:
+      213: -3908975122734096748
+    second: yellow guy_12
+  - first:
+      213: 7284548306376368887
+    second: yellow guy_13
+  - first:
+      213: -2430094394365593182
+    second: yellow guy_14
+  - first:
+      213: 6337201659027020597
+    second: yellow guy_15
+  - first:
+      213: 765250592850745070
+    second: yellow guy_16
+  - first:
+      213: -2091699096343422191
+    second: yellow guy_17
+  - first:
+      213: 2718919988580131637
+    second: yellow guy_18
+  - first:
+      213: 245611320021245415
+    second: yellow guy_19
+  - first:
+      213: -781873157719170335
+    second: yellow guy_20
+  - first:
+      213: 7550465584270014269
+    second: yellow guy_21
+  - first:
+      213: -7837213065454560970
+    second: yellow guy_22
+  - first:
+      213: -6340929649002544179
+    second: yellow guy_23
+  - first:
+      213: -5494541130475748054
+    second: yellow guy_24
+  - first:
+      213: -2547699909802412739
+    second: yellow guy_25
+  - first:
+      213: -8205046289644645295
+    second: yellow guy_26
+  - first:
+      213: 6151280195287806811
+    second: yellow guy_27
+  - first:
+      213: -2648504026114922580
+    second: yellow guy_28
+  - first:
+      213: -4132354327093858494
+    second: yellow guy_29
+  - first:
+      213: 8953445052026767241
+    second: yellow guy_30
+  - first:
+      213: -1294573957802829601
+    second: yellow guy_31
+  - first:
+      213: 6969860909285330412
+    second: yellow guy_32
+  - first:
+      213: 1084742501048241161
+    second: yellow guy_33
+  - first:
+      213: -7790501762424410771
+    second: yellow guy_34
+  - first:
+      213: -8756977005857647948
+    second: yellow guy_35
+  - first:
+      213: 5805687046865431623
+    second: yellow guy_36
+  - first:
+      213: -2581213357932764803
+    second: yellow guy_37
+  - first:
+      213: -1051651130782520002
+    second: yellow guy_38
+  - first:
+      213: 4978468203909301885
+    second: yellow guy_39
+  - first:
+      213: 8872663647005145918
+    second: yellow guy_40
+  - first:
+      213: -3058434167750095440
+    second: yellow guy_41
+  - first:
+      213: 9038784316229494694
+    second: yellow guy_42
+  - first:
+      213: -8176987045561714170
+    second: yellow guy_43
+  - first:
+      213: 7219462550921498089
+    second: yellow guy_44
+  - first:
+      213: -7405061008501655646
+    second: yellow guy_45
+  - first:
+      213: -4965244990204000947
+    second: yellow guy_46
+  - first:
+      213: 1352433245868642874
+    second: yellow guy_47
+  - first:
+      213: 269352075450816335
+    second: yellow guy_48
+  - first:
+      213: -6078451672090718990
+    second: yellow guy_49
+  - first:
+      213: 7876811725925576426
+    second: yellow guy_50
+  - first:
+      213: 7463091072654761110
+    second: yellow guy_51
+  - first:
+      213: -3689021033204934065
+    second: yellow guy_52
+  - first:
+      213: -2829510442529790446
+    second: yellow guy_53
+  - first:
+      213: 3455136212820529066
+    second: yellow guy_54
+  - first:
+      213: 1189389994382513313
+    second: yellow guy_55
+  - first:
+      213: 3273550838867656148
+    second: yellow guy_56
+  - first:
+      213: 2138404712574769395
+    second: yellow guy_57
+  - first:
+      213: -8652882503290305056
+    second: yellow guy_58
+  - first:
+      213: -2905233403075600938
+    second: yellow guy_59
+  - first:
+      213: -3378164863155492198
+    second: yellow guy_60
+  - first:
+      213: 2754256030271306359
+    second: yellow guy_61
+  - first:
+      213: 7916324010768710740
+    second: yellow guy_62
+  - first:
+      213: 6941532178156961059
+    second: yellow guy_63
+  - first:
+      213: -1854151210443508509
+    second: yellow guy_64
+  - first:
+      213: -3147172594795890613
+    second: yellow guy_65
+  - first:
+      213: 4906173891523460266
+    second: yellow guy_66
+  - first:
+      213: 278672877256985044
+    second: yellow guy_67
+  - first:
+      213: -7984419065950480953
+    second: yellow guy_68
+  - first:
+      213: -4811876887819892074
+    second: yellow guy_69
+  - first:
+      213: -3443759993232407014
+    second: yellow guy_70
+  - first:
+      213: -2055472099872185345
+    second: yellow guy_71
+  - first:
+      213: 1542136858393778463
+    second: yellow guy_72
+  - first:
+      213: -2884370252349511528
+    second: yellow guy_73
+  - first:
+      213: -9067820549298601123
+    second: yellow guy_74
+  - first:
+      213: 889270617412896141
+    second: yellow guy_75
+  - first:
+      213: -8519002862686483250
+    second: yellow guy_76
+  - first:
+      213: 2957271530843664571
+    second: yellow guy_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yellow guy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99fe86b66dcb70d0800000000000000
+      internalID: -3423917250651948646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ad4cf8be8005c40800000000000000
+      internalID: 5498904952841755137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8467916467908c0800000000000000
+      internalID: -4032561947886597936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff94b4482188731c0800000000000000
+      internalID: -4523997687560058369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_4
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e60fe253140ee40800000000000000
+      internalID: 5683614426418146950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_5
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53472962c203860c0800000000000000
+      internalID: -4582359654665653195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_6
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c86dfc184fcb2b0800000000000000
+      internalID: -5567306200961872790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_7
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602702730b6a9ecf0800000000000000
+      internalID: -222463430808800762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13be075aa61836c50800000000000000
+      internalID: 6657306969225882417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82725efb0912393b0800000000000000
+      internalID: -5507021013765511384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e1d34495a9eb810800000000000000
+      internalID: 1783032210672918053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_11
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c4a16e6e1aa4c30800000000000000
+      internalID: 4344462803627297848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_12
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e589526d780c9c0800000000000000
+      internalID: -3908975122734096748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_13
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2acb6e61ae71560800000000000000
+      internalID: 7284548306376368887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_14
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9bb250602964ed0800000000000000
+      internalID: -2430094394365593182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_15
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b525c355342f750800000000000000
+      internalID: 6337201659027020597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee696071c57be9a00800000000000000
+      internalID: 765250592850745070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bd17111cac8f2e0800000000000000
+      internalID: -2091699096343422191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_18
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533270cf25b8bb520800000000000000
+      internalID: 2718919988580131637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_19
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed5eaab136986300800000000000000
+      internalID: 245611320021245415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_20
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e26cbe618a3625f0800000000000000
+      internalID: -781873157719170335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_21
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37f93fd174a8c860800000000000000
+      internalID: 7550465584270014269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_22
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639d7848d30ac3390800000000000000
+      internalID: -7837213065454560970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_23
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc30675741e7008a0800000000000000
+      internalID: -6340929649002544179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25483204f77fb3b0800000000000000
+      internalID: -5494541130475748054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35bee92e60c4acd0800000000000000
+      internalID: -2547699909802412739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_26
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154181c2fd1d12e80800000000000000
+      internalID: -8205046289644645295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_27
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53760a2fbcbd5550800000000000000
+      internalID: 6151280195287806811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_28
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca76a31ee9f9e3bd0800000000000000
+      internalID: -2648504026114922580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_29
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fa58732ade6a6c0800000000000000
+      internalID: -4132354327093858494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_30
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987c80266d6014c70800000000000000
+      internalID: 8953445052026767241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_31
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8d0b528dfb80ee0800000000000000
+      internalID: -1294573957802829601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced45dfa19be9b060800000000000000
+      internalID: 6969860909285330412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_33
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ccfb7be87cd0f00800000000000000
+      internalID: 1084742501048241161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_34
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d63a44ce392e390800000000000000
+      internalID: -7790501762424410771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_35
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b257934fc7f87680800000000000000
+      internalID: -8756977005857647948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_36
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c2089fb91f19050800000000000000
+      internalID: 5805687046865431623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_37
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71ace67020bd2cd0800000000000000
+      internalID: -2581213357932764803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_38
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3de1125ed8c761f0800000000000000
+      internalID: -1051651130782520002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_39
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7647935472171540800000000000000
+      internalID: 4978468203909301885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b734bd398022b70800000000000000
+      internalID: 8872663647005145918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd865624524e85d0800000000000000
+      internalID: -3058434167750095440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_42
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a72b323276307d70800000000000000
+      internalID: 9038784316229494694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_43
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ab2580b91858e80800000000000000
+      internalID: -8176987045561714170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_44
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed49e090fea03460800000000000000
+      internalID: 7219462550921498089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_45
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7b9281f30fb3990800000000000000
+      internalID: -7405061008501655646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_46
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d454a180df7e71bb0800000000000000
+      internalID: -4965244990204000947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_47
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32dd622fdec4c210800000000000000
+      internalID: 1352433245868642874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4792c8194eecb300800000000000000
+      internalID: 269352075450816335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_49
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc47a4c86005aba0800000000000000
+      internalID: -6078451672090718990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_50
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeec66188e005d60800000000000000
+      internalID: 7876811725925576426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_51
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cd9f71ac9329760800000000000000
+      internalID: 7463091072654761110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_52
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a10e26ae6fdccc0800000000000000
+      internalID: -3689021033204934065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_53
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216e0c07e3f8bb8d0800000000000000
+      internalID: -2829510442529790446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_54
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf81c7541c13ff20800000000000000
+      internalID: 3455136212820529066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_55
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4d292f5ef818010800000000000000
+      internalID: 1189389994382513313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd73e8d42dfd6d20800000000000000
+      internalID: 3273550838867656148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_57
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f85a0f91c32dad10800000000000000
+      internalID: 2138404712574769395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_58
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5403c4539cae780800000000000000
+      internalID: -8652882503290305056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_59
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd541ccc998ea7d0800000000000000
+      internalID: -2905233403075600938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_60
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a29ea84f85e11d0800000000000000
+      internalID: -3378164863155492198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_61
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a7cc05445193620800000000000000
+      internalID: 2754256030271306359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_62
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cb3cccebe6cdd60800000000000000
+      internalID: 7916324010768710740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow guy_63
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d3dfbfcb6455060800000000000000
+      internalID: 6941532178156961059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4b4bf7f1af1265b4e85a1833035513ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":230.0,"y":310.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.10000000149011612},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      yellow guy_0: -3423917250651948646
+      yellow guy_1: 5498904952841755137
+      yellow guy_10: 1783032210672918053
+      yellow guy_11: 4344462803627297848
+      yellow guy_12: -3908975122734096748
+      yellow guy_13: 7284548306376368887
+      yellow guy_14: -2430094394365593182
+      yellow guy_15: 6337201659027020597
+      yellow guy_16: 765250592850745070
+      yellow guy_17: -2091699096343422191
+      yellow guy_18: 2718919988580131637
+      yellow guy_19: 245611320021245415
+      yellow guy_2: -4032561947886597936
+      yellow guy_20: -781873157719170335
+      yellow guy_21: 7550465584270014269
+      yellow guy_22: -7837213065454560970
+      yellow guy_23: -6340929649002544179
+      yellow guy_24: -5494541130475748054
+      yellow guy_25: -2547699909802412739
+      yellow guy_26: -8205046289644645295
+      yellow guy_27: 6151280195287806811
+      yellow guy_28: -2648504026114922580
+      yellow guy_29: -4132354327093858494
+      yellow guy_3: -4523997687560058369
+      yellow guy_30: 8953445052026767241
+      yellow guy_31: -1294573957802829601
+      yellow guy_32: 6969860909285330412
+      yellow guy_33: 1084742501048241161
+      yellow guy_34: -7790501762424410771
+      yellow guy_35: -8756977005857647948
+      yellow guy_36: 5805687046865431623
+      yellow guy_37: -2581213357932764803
+      yellow guy_38: -1051651130782520002
+      yellow guy_39: 4978468203909301885
+      yellow guy_4: 5683614426418146950
+      yellow guy_40: 8872663647005145918
+      yellow guy_41: -3058434167750095440
+      yellow guy_42: 9038784316229494694
+      yellow guy_43: -8176987045561714170
+      yellow guy_44: 7219462550921498089
+      yellow guy_45: -7405061008501655646
+      yellow guy_46: -4965244990204000947
+      yellow guy_47: 1352433245868642874
+      yellow guy_48: 269352075450816335
+      yellow guy_49: -6078451672090718990
+      yellow guy_5: -4582359654665653195
+      yellow guy_50: 7876811725925576426
+      yellow guy_51: 7463091072654761110
+      yellow guy_52: -3689021033204934065
+      yellow guy_53: -2829510442529790446
+      yellow guy_54: 3455136212820529066
+      yellow guy_55: 1189389994382513313
+      yellow guy_56: 3273550838867656148
+      yellow guy_57: 2138404712574769395
+      yellow guy_58: -8652882503290305056
+      yellow guy_59: -2905233403075600938
+      yellow guy_6: -5567306200961872790
+      yellow guy_60: -3378164863155492198
+      yellow guy_61: 2754256030271306359
+      yellow guy_62: 7916324010768710740
+      yellow guy_63: 6941532178156961059
+      yellow guy_7: -222463430808800762
+      yellow guy_8: 6657306969225882417
+      yellow guy_9: -5507021013765511384
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
