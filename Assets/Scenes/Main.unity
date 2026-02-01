@@ -309,7 +309,11 @@ GameObject:
   - component: {fileID: 126228003}
   m_Layer: 5
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_Name: GameOverPanel
+=======
+  m_Name: current_mask_sprite
+>>>>>>> Stashed changes
 =======
   m_Name: current_mask_sprite
 >>>>>>> Stashed changes
@@ -2514,7 +2518,11 @@ GameObject:
   - component: {fileID: 1245055021}
   m_Layer: 5
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_Name: Canvas
+=======
+  m_Name: text
+>>>>>>> Stashed changes
 =======
   m_Name: text
 >>>>>>> Stashed changes

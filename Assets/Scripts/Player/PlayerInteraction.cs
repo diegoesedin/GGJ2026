@@ -17,6 +17,9 @@ public class PlayerInteraction : MonoBehaviour, IMaskHolder
 
     [SerializeField] private Animator _maskUI;
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     private List<PersonView> _people = new List<PersonView>();
 
