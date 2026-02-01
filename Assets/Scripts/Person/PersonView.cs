@@ -12,7 +12,7 @@ public class PersonView : MonoBehaviour, IPersonView, IMaskHolder
     public SpriteRenderer SpriteRenderer;
     [SerializeField] private Animator _animator;
 
-    private PersonController _controller;
+    public PersonController Controller;
     private Rigidbody2D _rb;
     public MaskType CurrentMaskType;
     public bool IsMaskless;
@@ -25,7 +25,7 @@ public class PersonView : MonoBehaviour, IPersonView, IMaskHolder
         _rb = GetComponent<Rigidbody2D>();
         
         // Initialize Controller
-        _controller = new PersonController(this, _settings, FindAnyObjectByType<PlayerInteraction>(), _target, IsLeader);
+        Controller = new PersonController(this, _settings, FindAnyObjectByType<PlayerInteraction>(), _target, IsLeader);
         
         // Physics Setup for Smooth Movement
         _rb.gravityScale = 0;
@@ -34,12 +34,12 @@ public class PersonView : MonoBehaviour, IPersonView, IMaskHolder
 
     private void Update()
     {
-        _controller.Tick();
+        Controller.Tick();
     }
 
     private void FixedUpdate()
     {
-        _controller.FixedTick();
+        Controller.FixedTick();
     }
 
     // Debugging Tool to see the detection range
