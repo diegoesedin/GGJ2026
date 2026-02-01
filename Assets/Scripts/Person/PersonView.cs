@@ -20,7 +20,7 @@ public class PersonView : MonoBehaviour, IPersonView, IMaskHolder
 
     #region Unity Lifecycle
 
-    private void Awake()
+    private void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
         
@@ -51,6 +51,8 @@ public class PersonView : MonoBehaviour, IPersonView, IMaskHolder
             Gizmos.DrawWireSphere(transform.position, _settings.InteractRange);
         }
     }
+
+
 
     #endregion
 
