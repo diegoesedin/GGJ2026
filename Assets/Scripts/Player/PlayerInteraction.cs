@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using System.Collections.Generic;
 
@@ -15,7 +16,25 @@ public class PlayerInteraction : MonoBehaviour, IMaskHolder
 
     [SerializeField] private Animator _maskUI;
 
+    [Space] [Header("Colors")] 
+    [SerializeField] private Color Red;
+
+    [SerializeField] private Color Blue;
+
+    [SerializeField] private Color Green;
+
+    [SerializeField] private Color Yellow;
+
     public MaskType MaskType => CurrentMaskType;
+
+    private void Start()
+    {
+        UpdatePlayerAnimator();
+        MaskColor.Red = Red;
+        MaskColor.Blue = Blue;
+        MaskColor.Green = Green;
+        MaskColor.Yellow = Yellow;
+    }
 
     public void CalculateEncounter(PersonView person)
     {

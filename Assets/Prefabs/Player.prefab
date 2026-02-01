@@ -73,6 +73,10 @@ MonoBehaviour:
   yellowController: {fileID: 9100000, guid: 56f77e2098332a84fb6c1aa23940b5d7, type: 2}
   People: []
   _maskUI: {fileID: 0}
+  Red: {r: 0.54088044, g: 0.022111367, b: 0.022111367, a: 1}
+  Blue: {r: 0.11918069, g: 0.08721956, b: 0.61635214, a: 1}
+  Green: {r: 0.017980142, g: 0.49685526, b: 0, a: 1}
+  Yellow: {r: 0.6415094, g: 0.632345, b: 0, a: 1}
 --- !u!212 &4524167926381805537
 SpriteRenderer:
   serializedVersion: 2

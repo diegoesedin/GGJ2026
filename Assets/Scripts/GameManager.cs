@@ -26,6 +26,8 @@ public class GameManager : MonoBehaviour
     private bool _hasWon;
     private bool _gameOver;
 
+    public bool HasWon => _hasWon;
+
     private void Awake()
     {
         if (Instance == null)

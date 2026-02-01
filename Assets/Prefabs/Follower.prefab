@@ -50,10 +50,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PersonView
   _settings:
     InteractRange: 2
-    FollowSpeed: 5
+    FollowSpeed: 8
     SmoothTime: 0.2
     StoppingDistance: 2
-    PatrolRadius: 6
+    PatrolRadius: 10
     PatrolPeriod: 3
     PlayerDetectRange: 8
     PlayerLayer:
