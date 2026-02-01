@@ -1,0 +1,1852 @@
+fileFormatVersion: 2
+guid: b5cb36b98cdd6d647a6ba61412858480
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 49404948079582771
+    second: green guy_0
+  - first:
+      213: -304458018643498019
+    second: green guy_1
+  - first:
+      213: -4097918201780414874
+    second: green guy_2
+  - first:
+      213: -3453785206529925963
+    second: green guy_3
+  - first:
+      213: -8981125288451228587
+    second: green guy_4
+  - first:
+      213: -4824621721311186806
+    second: green guy_5
+  - first:
+      213: -8372377821642958370
+    second: green guy_6
+  - first:
+      213: 6003807704376729288
+    second: green guy_7
+  - first:
+      213: -4831052064095347538
+    second: green guy_8
+  - first:
+      213: 185406345456162620
+    second: green guy_9
+  - first:
+      213: 2841157915165230546
+    second: green guy_10
+  - first:
+      213: -8468257634830883822
+    second: green guy_11
+  - first:
+      213: -6443395214633355237
+    second: green guy_12
+  - first:
+      213: -1453991864407912913
+    second: green guy_13
+  - first:
+      213: -5411202486259042109
+    second: green guy_14
+  - first:
+      213: 556697719484068344
+    second: green guy_15
+  - first:
+      213: 1815519457734502049
+    second: green guy_16
+  - first:
+      213: 7641286055535458260
+    second: green guy_17
+  - first:
+      213: 3083207722672352052
+    second: green guy_18
+  - first:
+      213: 8070562482912467066
+    second: green guy_19
+  - first:
+      213: -882864228142925449
+    second: green guy_20
+  - first:
+      213: -654181988059642730
+    second: green guy_21
+  - first:
+      213: 3753329795324409219
+    second: green guy_22
+  - first:
+      213: -778206675944602060
+    second: green guy_23
+  - first:
+      213: -4995750112071670075
+    second: green guy_24
+  - first:
+      213: 3087009193003250981
+    second: green guy_25
+  - first:
+      213: -5309828996678336548
+    second: green guy_26
+  - first:
+      213: 5920515748055931130
+    second: green guy_27
+  - first:
+      213: -8504288280865285848
+    second: green guy_28
+  - first:
+      213: 1759219659745986379
+    second: green guy_29
+  - first:
+      213: 4749432649939327748
+    second: green guy_30
+  - first:
+      213: 3512777312697472614
+    second: green guy_31
+  - first:
+      213: 746771921452819059
+    second: green guy_32
+  - first:
+      213: -5258490499644000083
+    second: green guy_33
+  - first:
+      213: -2510373164082548450
+    second: green guy_34
+  - first:
+      213: 1085954859097685879
+    second: green guy_35
+  - first:
+      213: 323754835021213166
+    second: green guy_36
+  - first:
+      213: 2614081701375944212
+    second: green guy_37
+  - first:
+      213: 771565586138750582
+    second: green guy_38
+  - first:
+      213: 1509157871835479242
+    second: green guy_39
+  - first:
+      213: 50916567543840689
+    second: green guy_40
+  - first:
+      213: -787533425392432283
+    second: green guy_41
+  - first:
+      213: -5613493989041264769
+    second: green guy_42
+  - first:
+      213: 6142561515257939029
+    second: green guy_43
+  - first:
+      213: 7899640025876584054
+    second: green guy_44
+  - first:
+      213: 1463334327479255888
+    second: green guy_45
+  - first:
+      213: -7097709385938171254
+    second: green guy_46
+  - first:
+      213: -3884913424215055198
+    second: green guy_47
+  - first:
+      213: 1488833996777756331
+    second: green guy_48
+  - first:
+      213: 5591430385328746981
+    second: green guy_49
+  - first:
+      213: -2864410735748083060
+    second: green guy_50
+  - first:
+      213: -4562613507704692196
+    second: green guy_51
+  - first:
+      213: 6098134467936681222
+    second: green guy_52
+  - first:
+      213: 2006965323124160272
+    second: green guy_53
+  - first:
+      213: -4932237581092582590
+    second: green guy_54
+  - first:
+      213: 5216361465663505699
+    second: green guy_55
+  - first:
+      213: 6232599117402314426
+    second: green guy_56
+  - first:
+      213: -549274060562865480
+    second: green guy_57
+  - first:
+      213: -1778411499279728522
+    second: green guy_58
+  - first:
+      213: -3130116029923761720
+    second: green guy_59
+  - first:
+      213: 7244091417559781028
+    second: green guy_60
+  - first:
+      213: 635715976638511788
+    second: green guy_61
+  - first:
+      213: -3105316924729946789
+    second: green guy_62
+  - first:
+      213: -4028442407279044569
+    second: green guy_63
+  - first:
+      213: 7938213346261078996
+    second: green guy_64
+  - first:
+      213: -2438929566185330183
+    second: green guy_65
+  - first:
+      213: 4042824160242514082
+    second: green guy_66
+  - first:
+      213: -991540018929905659
+    second: green guy_67
+  - first:
+      213: -4440636234748428746
+    second: green guy_68
+  - first:
+      213: -85785234294823241
+    second: green guy_69
+  - first:
+      213: 2496065315333947588
+    second: green guy_70
+  - first:
+      213: -6287568369875881333
+    second: green guy_71
+  - first:
+      213: -4051976205471549216
+    second: green guy_72
+  - first:
+      213: 1897241540802322013
+    second: green guy_73
+  - first:
+      213: -2698814374490250203
+    second: green guy_74
+  - first:
+      213: -6006087058952917614
+    second: green guy_75
+  - first:
+      213: 5955619423040534775
+    second: green guy_76
+  - first:
+      213: 7738431323721780235
+    second: green guy_77
+  - first:
+      213: 7332352895672060274
+    second: green guy_78
+  - first:
+      213: 8375492615734392767
+    second: green guy_79
+  - first:
+      213: -129875566927829425
+    second: green guy_80
+  - first:
+      213: -3068605933853257713
+    second: green guy_81
+  - first:
+      213: -7307140445541604782
+    second: green guy_82
+  - first:
+      213: -3534318868102277560
+    second: green guy_83
+  - first:
+      213: 2726602966924357842
+    second: green guy_84
+  - first:
+      213: -7081949839905309999
+    second: green guy_85
+  - first:
+      213: -7149865084940110849
+    second: green guy_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: green guy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e1e6cd9858fa000800000000000000
+      internalID: 49404948079582771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb2cbd8b0956cbf0800000000000000
+      internalID: -304458018643498019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66655407b154127c0800000000000000
+      internalID: -4097918201780414874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcd84257a0b110d0800000000000000
+      internalID: -3453785206529925963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_4
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c369a5222ac5380800000000000000
+      internalID: -8981125288451228587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_5
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80fc9d3b108b0db0800000000000000
+      internalID: -4824621721311186806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_6
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9dc9fdab65fcb80800000000000000
+      internalID: -8372377821642958370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_7
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ced02f2c4fc15350800000000000000
+      internalID: 6003807704376729288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacdd246eb7a4fcb0800000000000000
+      internalID: -4831052064095347538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c379400c612b29200800000000000000
+      internalID: 185406345456162620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5863c1212dd6720800000000000000
+      internalID: 2841157915165230546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_11
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2146a614c84ba7a80800000000000000
+      internalID: -8468257634830883822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_12
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18b35cd0367496a0800000000000000
+      internalID: -6443395214633355237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_13
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e88a75a1262dbe0800000000000000
+      internalID: -1453991864407912913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_14
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8b1de220c87e4b0800000000000000
+      internalID: -5411202486259042109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_15
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f13e1950a9c9b700800000000000000
+      internalID: 556697719484068344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a62319e355023910800000000000000
+      internalID: 1815519457734502049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d73657ae2d4b0a60800000000000000
+      internalID: 7641286055535458260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_18
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b60a69611c9ca20800000000000000
+      internalID: 3083207722672352052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_19
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78979b81d5600070800000000000000
+      internalID: 8070562482912467066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_20
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77934a089af6fb3f0800000000000000
+      internalID: -882864228142925449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_21
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6940f37a2f0ebe6f0800000000000000
+      internalID: -654181988059642730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_22
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38573371091861430800000000000000
+      internalID: 3753329795324409219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_23
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4360c7eb6214335f0800000000000000
+      internalID: -778206675944602060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6a95fddb78baab0800000000000000
+      internalID: -4995750112071670075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525f25f518247da20800000000000000
+      internalID: 3087009193003250981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_26
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf3be209a2bf46b0800000000000000
+      internalID: -5309828996678336548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_27
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8daf164b5e92250800000000000000
+      internalID: 5920515748055931130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_28
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829d18fbdd2baf980800000000000000
+      internalID: -8504288280865285848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_29
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b470b05b5f00a6810800000000000000
+      internalID: 1759219659745986379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_30
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b9640e4df59e140800000000000000
+      internalID: 4749432649939327748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_31
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666526aba54efb030800000000000000
+      internalID: 3512777312697472614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3726e622b111d5a00800000000000000
+      internalID: 746771921452819059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_33
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8f3f150c61607b0800000000000000
+      internalID: -5258490499644000083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_34
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11bf2568ec592dd0800000000000000
+      internalID: -2510373164082548450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_35
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f70a2d036121f00800000000000000
+      internalID: 1085954859097685879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_36
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed21cf9e453e7400800000000000000
+      internalID: 323754835021213166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_37
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416ac581575174420800000000000000
+      internalID: 2614081701375944212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_38
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e57ba00d625ba00800000000000000
+      internalID: 771565586138750582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_39
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accfcbca61b91f410800000000000000
+      internalID: 1509157871835479242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bff1a13954e4b000800000000000000
+      internalID: 50916567543840689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bccbaa58e1215f0800000000000000
+      internalID: -787533425392432283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_42
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77a76265fcd812b0800000000000000
+      internalID: -5613493989041264769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_43
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5544fe74723ce3550800000000000000
+      internalID: 6142561515257939029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_44
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676d4dbdfb821ad60800000000000000
+      internalID: 7899640025876584054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_45
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053490951dece4410800000000000000
+      internalID: 1463334327479255888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_46
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a03343beedf7d90800000000000000
+      internalID: -7097709385938171254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_47
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4e386e2d3061ac0800000000000000
+      internalID: -3884913424215055198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba69673c1a669a410800000000000000
+      internalID: 1488833996777756331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_49
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e178df8f40c89d40800000000000000
+      internalID: 5591430385328746981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_50
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c829be4bc919f38d0800000000000000
+      internalID: -2864410735748083060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_51
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12ecd140375ea0c0800000000000000
+      internalID: -4562613507704692196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_52
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d7ee14dfce0a450800000000000000
+      internalID: 6098134467936681222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_53
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017b759f35c2adb10800000000000000
+      internalID: 2006965323124160272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_54
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b05275d0c2d8bb0800000000000000
+      internalID: -4932237581092582590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_55
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325c8e49d1d346840800000000000000
+      internalID: 5216361465663505699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab69d2420e3ae7650800000000000000
+      internalID: 6232599117402314426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_57
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b260dfe6269068f0800000000000000
+      internalID: -549274060562865480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_58
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67046f0f920d157e0800000000000000
+      internalID: -1778411499279728522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_59
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c163aa0e089f84d0800000000000000
+      internalID: -3130116029923761720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_60
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae4b1073ce288460800000000000000
+      internalID: 7244091417559781028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_61
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa3495005482d800800000000000000
+      internalID: 635715976638511788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_62
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d867aa5b2b7e4d0800000000000000
+      internalID: -3105316924729946789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green guy_63
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728530469f81818c0800000000000000
+      internalID: -4028442407279044569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 39db6add94ee2284eb2a6ea81d0c69b6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":230.0,"y":310.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.10000000149011612},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      green guy_0: 49404948079582771
+      green guy_1: -304458018643498019
+      green guy_10: 2841157915165230546
+      green guy_11: -8468257634830883822
+      green guy_12: -6443395214633355237
+      green guy_13: -1453991864407912913
+      green guy_14: -5411202486259042109
+      green guy_15: 556697719484068344
+      green guy_16: 1815519457734502049
+      green guy_17: 7641286055535458260
+      green guy_18: 3083207722672352052
+      green guy_19: 8070562482912467066
+      green guy_2: -4097918201780414874
+      green guy_20: -882864228142925449
+      green guy_21: -654181988059642730
+      green guy_22: 3753329795324409219
+      green guy_23: -778206675944602060
+      green guy_24: -4995750112071670075
+      green guy_25: 3087009193003250981
+      green guy_26: -5309828996678336548
+      green guy_27: 5920515748055931130
+      green guy_28: -8504288280865285848
+      green guy_29: 1759219659745986379
+      green guy_3: -3453785206529925963
+      green guy_30: 4749432649939327748
+      green guy_31: 3512777312697472614
+      green guy_32: 746771921452819059
+      green guy_33: -5258490499644000083
+      green guy_34: -2510373164082548450
+      green guy_35: 1085954859097685879
+      green guy_36: 323754835021213166
+      green guy_37: 2614081701375944212
+      green guy_38: 771565586138750582
+      green guy_39: 1509157871835479242
+      green guy_4: -8981125288451228587
+      green guy_40: 50916567543840689
+      green guy_41: -787533425392432283
+      green guy_42: -5613493989041264769
+      green guy_43: 6142561515257939029
+      green guy_44: 7899640025876584054
+      green guy_45: 1463334327479255888
+      green guy_46: -7097709385938171254
+      green guy_47: -3884913424215055198
+      green guy_48: 1488833996777756331
+      green guy_49: 5591430385328746981
+      green guy_5: -4824621721311186806
+      green guy_50: -2864410735748083060
+      green guy_51: -4562613507704692196
+      green guy_52: 6098134467936681222
+      green guy_53: 2006965323124160272
+      green guy_54: -4932237581092582590
+      green guy_55: 5216361465663505699
+      green guy_56: 6232599117402314426
+      green guy_57: -549274060562865480
+      green guy_58: -1778411499279728522
+      green guy_59: -3130116029923761720
+      green guy_6: -8372377821642958370
+      green guy_60: 7244091417559781028
+      green guy_61: 635715976638511788
+      green guy_62: -3105316924729946789
+      green guy_63: -4028442407279044569
+      green guy_7: 6003807704376729288
+      green guy_8: -4831052064095347538
+      green guy_9: 185406345456162620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

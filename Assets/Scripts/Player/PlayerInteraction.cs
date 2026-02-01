@@ -6,21 +6,12 @@ public class PlayerInteraction : MonoBehaviour, IMaskHolder
     public int FollowerNumber;
     public MaskType CurrentMaskType;
     [SerializeField] private SpriteRenderer _renderer;
-<<<<<<< Updated upstream
-=======
     
     [SerializeField] private Animator _animator;
     [SerializeField] private RuntimeAnimatorController blueController;
     [SerializeField] private RuntimeAnimatorController greenController;
     [SerializeField] private RuntimeAnimatorController redController;
     [SerializeField] private RuntimeAnimatorController yellowController;
-
-    [SerializeField] private Animator _maskUI;
-
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
     private List<PersonView> _people = new List<PersonView>();
 
     public MaskType MaskType => CurrentMaskType;
@@ -71,42 +62,33 @@ public class PlayerInteraction : MonoBehaviour, IMaskHolder
     public void ChangeMask()
     {
         CurrentMaskType = (MaskType)(((int)CurrentMaskType + 1) % 4);
-        _renderer.color = MaskColor.GetMaskColor(CurrentMaskType);
+        //_renderer.color = MaskColor.GetMaskColor(CurrentMaskType);
+        UpdatePlayerAnimator();
         foreach (var person in _people)
         {
             //person.CurrentMaskType = CurrentMaskType;
             person.GetComponent<SpriteRenderer>().color = MaskColor.GetMaskColor(CurrentMaskType);
         }
-
-
-        
     }
 
-<<<<<<< Updated upstream
-=======
     private void UpdatePlayerAnimator()
     {
         switch (CurrentMaskType)
         {
             case MaskType.Blue:
                 _animator.runtimeAnimatorController = blueController;
-                _maskUI.Play("blue");
                 break;
             case MaskType.Green:
                 _animator.runtimeAnimatorController = greenController;
-                //_maskUI.Play("green");
                 break;
             case MaskType.Red:
                 _animator.runtimeAnimatorController = redController;
-                _maskUI.Play("red");
                 break;
             case MaskType.Yellow:
                 _animator.runtimeAnimatorController = yellowController;
-                _maskUI.Play("yellow");
                 break;
         }
     }
->>>>>>> Stashed changes
     
 }
 
