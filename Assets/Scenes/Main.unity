@@ -119,6 +119,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!95 &4853576 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 8461101829794034830, guid: 84b26b93b40584246bf8a2e683ddbcdb, type: 3}
+  m_PrefabInstance: {fileID: 2101539760960201000}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &4915222
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3751,7 +3756,7 @@ PrefabInstance:
     - target: {fileID: 8368495952849100987, guid: 148eff6cb0d32434da6af117ca5cd70c, type: 3}
       propertyPath: _maskUI
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 4853576}
     - target: {fileID: 8475418873667822232, guid: 148eff6cb0d32434da6af117ca5cd70c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
