@@ -54,8 +54,8 @@ public class PersonController
     {
         // Check surrounding area for the player
         Collider2D hit;
-        if (!_isLeader && _targetToFollow == null ) hit = Physics2D.OverlapCircle(_view.CurrentPosition, _settings.InteractRange, _settings.PlayerLayer | _settings.LeaderLayer);
-        else hit = Physics2D.OverlapCircle(_view.CurrentPosition, _settings.InteractRange, _settings.PlayerLayer );
+        if (!_isLeader && _targetToFollow == null) hit = Physics2D.OverlapCircle(_view.CurrentPosition, _settings.InteractRange, _settings.PlayerLayer | _settings.LeaderLayer);
+        else hit = Physics2D.OverlapCircle(_view.CurrentPosition, _settings.InteractRange, _settings.PlayerLayer);
 
         if (hit != null)
         {
@@ -111,35 +111,65 @@ public class PersonController
 
     private void Patrol(bool isLeader)
     {
-        if (isLeader && Vector2.Distance(_view.CurrentPosition, _playerInteraction.transform.position) < _settings.PlayerDetectRange)
+        if (isLeader)
         {
-            int direction = (_playerInteraction.People.Count > _personView.FollowerNumber) ? -1 : 1;
-            _stayInPlace = false;
-            _randomPoint = ((Vector2)_playerInteraction.transform.position -_view.CurrentPosition).normalized * direction * _settings.PlayerDetectRange;
-
-            Vector2 nextPos2 = Vector2.SmoothDamp(
-                _view.CurrentPosition,
-                _randomPoint,
-                ref _currentVelocity,
-                _settings.SmoothTime,
-                _settings.FollowSpeed
-            );
-
-            _view.MoveToPosition(nextPos2, _currentVelocity);
-            return;
-        }
-        else
-        {
-            if (_moveTimer <= 0f)
+            if (Vector2.Distance(_view.CurrentPosition, _playerInteraction.transform.position) < _settings.PlayerDetectRange)
             {
-                _moveTimer = _settings.PatrolPeriod * Random.Range(0f, 1f);
-                _stayInPlace = !_stayInPlace;
-                _randomPoint = _center + Random.insideUnitCircle * _settings.PatrolRadius;
+                int direction = (_playerInteraction.People.Count > _personView.FollowerNumber) ? -1 : 1;
+                _stayInPlace = false;
+                _randomPoint = ((Vector2)_playerInteraction.transform.position - _view.CurrentPosition).normalized * direction * _settings.PlayerDetectRange;
+
+                Vector2 nextPos2 = Vector2.SmoothDamp(
+                    _view.CurrentPosition,
+                    _randomPoint,
+                    ref _currentVelocity,
+                    _settings.SmoothTime,
+                    _settings.FollowSpeed * 0.75f
+                );
+
+                _view.MoveToPosition(nextPos2, _currentVelocity);
+
+                return;
+
             }
             else
             {
-                _moveTimer -= Time.fixedDeltaTime;
+                Collider2D hit = Physics2D.OverlapCircle(_view.CurrentPosition, _settings.PlayerDetectRange, LayerMask.GetMask("Follower"));
+                if (hit != null)
+                {
+                    PersonController follower = hit.GetComponent<PersonView>().Controller;
+                    if (follower._targetToFollow == null)
+                    {
+                        _stayInPlace = false;
+                        _randomPoint = ((Vector2)follower._personView.transform.position - _view.CurrentPosition).normalized * _settings.PlayerDetectRange;
+
+
+                        Vector2 nextPos2 = Vector2.SmoothDamp(
+                            _view.CurrentPosition,
+                            _randomPoint,
+                            ref _currentVelocity,
+                            _settings.SmoothTime,
+                            _settings.FollowSpeed
+                            );
+
+                        _view.MoveToPosition(nextPos2, _currentVelocity);
+
+                        return;
+                    }
+                }
             }
+
+        }
+
+        if (_moveTimer <= 0f)
+        {
+            _moveTimer = _settings.PatrolPeriod * Random.Range(0f, 1f);
+            _stayInPlace = !_stayInPlace;
+            _randomPoint = _center + Random.insideUnitCircle * _settings.PatrolRadius;
+        }
+        else
+        {
+            _moveTimer -= Time.fixedDeltaTime;
         }
         // Simple random patrol logic within a radius
         if (_stayInPlace) return;
