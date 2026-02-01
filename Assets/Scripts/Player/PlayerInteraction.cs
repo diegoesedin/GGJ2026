@@ -14,6 +14,8 @@ public class PlayerInteraction : MonoBehaviour, IMaskHolder
     [SerializeField] private RuntimeAnimatorController yellowController;
     private List<PersonView> _people = new List<PersonView>();
 
+    [SerializeField] private Animator _maskUI;
+
     public MaskType MaskType => CurrentMaskType;
 
     public void CalculateEncounter(PersonView person)
@@ -77,15 +79,19 @@ public class PlayerInteraction : MonoBehaviour, IMaskHolder
         {
             case MaskType.Blue:
                 _animator.runtimeAnimatorController = blueController;
+                _maskUI.Play("blue");
                 break;
             case MaskType.Green:
                 _animator.runtimeAnimatorController = greenController;
+                _maskUI.Play("green");
                 break;
             case MaskType.Red:
                 _animator.runtimeAnimatorController = redController;
+                _maskUI.Play("red");
                 break;
             case MaskType.Yellow:
                 _animator.runtimeAnimatorController = yellowController;
+                _maskUI.Play("yellow");
                 break;
         }
     }

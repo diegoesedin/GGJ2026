@@ -310,7 +310,7 @@ GameObject:
   - component: {fileID: 124564924}
   - component: {fileID: 124564923}
   m_Layer: 5
-  m_Name: Image
+  m_Name: MaskUI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -377,7 +377,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 6995161147468112741, guid: acefed8b2e40b0f4b9c093dbf3308f42, type: 3}
+  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2531,7 +2531,7 @@ GameObject:
   - component: {fileID: 1417095067}
   - component: {fileID: 1417095066}
   m_Layer: 5
-  m_Name: current_mask_sprite
+  m_Name: text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3702,6 +3702,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 8368495952849100987, guid: 148eff6cb0d32434da6af117ca5cd70c, type: 3}
+      propertyPath: _maskUI
+      value: 
+      objectReference: {fileID: 124564923}
     - target: {fileID: 8475418873667822232, guid: 148eff6cb0d32434da6af117ca5cd70c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
