@@ -48,7 +48,7 @@ MonoBehaviour:
   _settings:
     SpawnInterval: 2
     MaxPopulation: 10
-    SpawnAreaSize: {x: 30, y: 30}
+    SpawnAreaSize: {x: 40, y: 50}
     SpawnRetriesPerTick: 5
     CollisionCheckRadius: 0.5
     ObstacleLayers:
