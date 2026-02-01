@@ -1,0 +1,2145 @@
+fileFormatVersion: 2
+guid: 59061df6a0b48ef47986c51b0a40328d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7071816657462246341
+    second: blue guy_0
+  - first:
+      213: 9014144004217225101
+    second: blue guy_1
+  - first:
+      213: 7057091573283355951
+    second: blue guy_2
+  - first:
+      213: 1620688212539013226
+    second: blue guy_3
+  - first:
+      213: 1661383102372961745
+    second: blue guy_4
+  - first:
+      213: -5199872849288660853
+    second: blue guy_5
+  - first:
+      213: 1383967600808503879
+    second: blue guy_6
+  - first:
+      213: 2857503232654437338
+    second: blue guy_7
+  - first:
+      213: -4987070233533370914
+    second: blue guy_8
+  - first:
+      213: 1574163194124814090
+    second: blue guy_9
+  - first:
+      213: 828315287339035967
+    second: blue guy_10
+  - first:
+      213: 8468020415352165814
+    second: blue guy_11
+  - first:
+      213: -4214042371475751648
+    second: blue guy_12
+  - first:
+      213: -1989949849735928155
+    second: blue guy_13
+  - first:
+      213: -3217701849927802984
+    second: blue guy_14
+  - first:
+      213: 6473097274135104823
+    second: blue guy_15
+  - first:
+      213: -1663691247263533754
+    second: blue guy_16
+  - first:
+      213: -7475187945361220150
+    second: blue guy_17
+  - first:
+      213: 5780437797880981346
+    second: blue guy_18
+  - first:
+      213: -3012203368416486663
+    second: blue guy_19
+  - first:
+      213: -1125286989639779668
+    second: blue guy_20
+  - first:
+      213: -3031035355969358842
+    second: blue guy_21
+  - first:
+      213: 8284559374335171985
+    second: blue guy_22
+  - first:
+      213: -7348149163857993325
+    second: blue guy_23
+  - first:
+      213: -5194520880431152809
+    second: blue guy_24
+  - first:
+      213: -735403142526546446
+    second: blue guy_25
+  - first:
+      213: -7886397494313605059
+    second: blue guy_26
+  - first:
+      213: -3526679598075963361
+    second: blue guy_27
+  - first:
+      213: -1619038253114107350
+    second: blue guy_28
+  - first:
+      213: -5009444668101328028
+    second: blue guy_29
+  - first:
+      213: -5959808916786793627
+    second: blue guy_30
+  - first:
+      213: 996885152831733038
+    second: blue guy_31
+  - first:
+      213: -4001305618001935916
+    second: blue guy_32
+  - first:
+      213: 7724672197896863788
+    second: blue guy_33
+  - first:
+      213: -1640652521721131239
+    second: blue guy_34
+  - first:
+      213: -7129158404747635173
+    second: blue guy_35
+  - first:
+      213: -7405219824846004062
+    second: blue guy_36
+  - first:
+      213: 2583346346283471671
+    second: blue guy_37
+  - first:
+      213: -1776605401831578879
+    second: blue guy_38
+  - first:
+      213: 4885773031524901108
+    second: blue guy_39
+  - first:
+      213: 3385656520082153072
+    second: blue guy_40
+  - first:
+      213: 5738138182311442678
+    second: blue guy_41
+  - first:
+      213: -6239104311554005020
+    second: blue guy_42
+  - first:
+      213: 1901888291644964665
+    second: blue guy_43
+  - first:
+      213: -4409902841458250219
+    second: blue guy_44
+  - first:
+      213: 2405370661116363769
+    second: blue guy_45
+  - first:
+      213: -62417061449723276
+    second: blue guy_46
+  - first:
+      213: -3007902036084205664
+    second: blue guy_47
+  - first:
+      213: -3431060768739894714
+    second: blue guy_48
+  - first:
+      213: 4811388107271679942
+    second: blue guy_49
+  - first:
+      213: -8915386857028694176
+    second: blue guy_50
+  - first:
+      213: -5746979227045233425
+    second: blue guy_51
+  - first:
+      213: 7495143615693610675
+    second: blue guy_52
+  - first:
+      213: -3214486283052298282
+    second: blue guy_53
+  - first:
+      213: 497600971595033154
+    second: blue guy_54
+  - first:
+      213: 3742935041583713976
+    second: blue guy_55
+  - first:
+      213: -4540931317151800108
+    second: blue guy_56
+  - first:
+      213: -5223083049829139808
+    second: blue guy_57
+  - first:
+      213: -8456189601122644286
+    second: blue guy_58
+  - first:
+      213: 4358640994475318441
+    second: blue guy_59
+  - first:
+      213: -3650141894370553142
+    second: blue guy_60
+  - first:
+      213: 7869288088768069929
+    second: blue guy_61
+  - first:
+      213: -3175764427049218285
+    second: blue guy_62
+  - first:
+      213: -8266437870317127677
+    second: blue guy_63
+  - first:
+      213: -2617371350878735371
+    second: blue guy_64
+  - first:
+      213: -5118014859770087633
+    second: blue guy_65
+  - first:
+      213: -2912907034958171149
+    second: blue guy_66
+  - first:
+      213: -2966947563145223998
+    second: blue guy_67
+  - first:
+      213: -8574634079721736012
+    second: blue guy_68
+  - first:
+      213: 7011079176178335452
+    second: blue guy_69
+  - first:
+      213: 5173100978479798708
+    second: blue guy_70
+  - first:
+      213: 8496033057967972910
+    second: blue guy_71
+  - first:
+      213: -443813660486846472
+    second: blue guy_72
+  - first:
+      213: 6976672632197500913
+    second: blue guy_73
+  - first:
+      213: 6393866958177019811
+    second: blue guy_74
+  - first:
+      213: 4361852880899838829
+    second: blue guy_75
+  - first:
+      213: -7550695597785404417
+    second: blue guy_76
+  - first:
+      213: 6433703269136074549
+    second: blue guy_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue guy_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2181
+        width: 116
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb3ab828c3242260800000000000000
+      internalID: 7071816657462246341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2205
+        width: 107
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fb59d763ca81d70800000000000000
+      internalID: 9014144004217225101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_2
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2218
+        width: 109
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2df4f45563dfe160800000000000000
+      internalID: 7057091573283355951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_3
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 2222
+        width: 118
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68fc00b757dd7610800000000000000
+      internalID: 1620688212539013226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_4
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 2207
+        width: 112
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddd6c4112b6e0710800000000000000
+      internalID: 1661383102372961745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_5
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2189
+        width: 116
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8873f4913756d7b0800000000000000
+      internalID: -5199872849288660853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_6
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 2220
+        width: 117
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a27da4337d43310800000000000000
+      internalID: 1383967600808503879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_7
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 2219
+        width: 125
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbe5e6ec04e7a720800000000000000
+      internalID: 2857503232654437338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1883
+        width: 157
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edda1549b0e5acab0800000000000000
+      internalID: -4987070233533370914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1884
+        width: 151
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07cd44b51d88d510800000000000000
+      internalID: 1574163194124814090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_10
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1875
+        width: 113
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d6edf7d54ce7b00800000000000000
+      internalID: 828315287339035967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_11
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1882
+        width: 128
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b552d7c3b3748570800000000000000
+      internalID: 8468020415352165814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_12
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1910
+        width: 171
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d3eb34ac6b485c0800000000000000
+      internalID: -4214042371475751648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_13
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1911
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6e5a5a7274264e0800000000000000
+      internalID: -1989949849735928155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_14
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1879
+        width: 155
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f9fe1373d6853d0800000000000000
+      internalID: -3217701849927802984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_15
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1880
+        width: 124
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d4f55ccaf05d950800000000000000
+      internalID: 6473097274135104823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_16
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1904
+        width: 145
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6453eee00a169e8e0800000000000000
+      internalID: -1663691247263533754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1580
+        width: 164
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd567f3b2cc24890800000000000000
+      internalID: -7475187945361220150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1574
+        width: 171
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267efe41d8d383050800000000000000
+      internalID: 5780437797880981346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_19
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1579
+        width: 112
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fadc4aeef08236d0800000000000000
+      internalID: -3012203368416486663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_20
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1571
+        width: 134
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaf628e17d2260f0800000000000000
+      internalID: -1125286989639779668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_21
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1589
+        width: 182
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604fbc127699fe5d0800000000000000
+      internalID: -3031035355969358842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_22
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1579
+        width: 159
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d51e38bdaa8f270800000000000000
+      internalID: 8284559374335171985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_23
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1572
+        width: 110
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39129a38441260a90800000000000000
+      internalID: -7348149163857993325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_24
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1572
+        width: 154
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7514d8fe7ca59e7b0800000000000000
+      internalID: -5194520880431152809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_25
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1685
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdcffafcb25bc5f0800000000000000
+      internalID: -735403142526546446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_26
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1650
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3828e94343ed8290800000000000000
+      internalID: -7886397494313605059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_27
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1600
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1890183797be0fc0800000000000000
+      internalID: -3526679598075963361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_28
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1575
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a5d5d69450889e0800000000000000
+      internalID: -1619038253114107350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_29
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1579
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46388d39d90ea7ab0800000000000000
+      internalID: -5009444668101328028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1285
+        width: 160
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563b7b9dd518a4da0800000000000000
+      internalID: -5959808916786793627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1283
+        width: 162
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d7568c3c5a5dd00800000000000000
+      internalID: 996885152831733038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_32
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1279
+        width: 106
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d148318db18878c0800000000000000
+      internalID: -4001305618001935916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_33
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1272
+        width: 123
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c208af9df6c833b60800000000000000
+      internalID: 7724672197896863788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_34
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1290
+        width: 145
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f86fa593b3b39e0800000000000000
+      internalID: -1640652521721131239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_35
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1263
+        width: 141
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16d689e334201d90800000000000000
+      internalID: -7129158404747635173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_36
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1340
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0af58cdcf5b3990800000000000000
+      internalID: -7405219824846004062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_37
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1270
+        width: 106
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733970690d3e9d320800000000000000
+      internalID: 2583346346283471671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_38
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1270
+        width: 135
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103e9c5ccca3857e0800000000000000
+      internalID: -1776605401831578879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 961
+        width: 108
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0a93dafa0cdc340800000000000000
+      internalID: 4885773031524901108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 961
+        width: 110
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e5bf2caa44cfe20800000000000000
+      internalID: 3385656520082153072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_41
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 960
+        width: 109
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f877cc5646f1af40800000000000000
+      internalID: 5738138182311442678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_42
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 953
+        width: 121
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e727315faf3a69a0800000000000000
+      internalID: -6239104311554005020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_43
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 954
+        width: 108
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ff8f9135dd46a10800000000000000
+      internalID: 1901888291644964665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_44
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 952
+        width: 113
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e25e8fab0ecc2c0800000000000000
+      internalID: -4409902841458250219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_45
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 953
+        width: 110
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3ccf04fd7916120800000000000000
+      internalID: 2405370661116363769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_46
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 949
+        width: 121
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4729d586300422ff0800000000000000
+      internalID: -62417061449723276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_47
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 662
+        width: 160
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7d604e809c146d0800000000000000
+      internalID: -3007902036084205664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_48
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 661
+        width: 162
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ada7cc86c6260d0800000000000000
+      internalID: -3431060768739894714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_49
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 658
+        width: 106
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfa772edfb75c240800000000000000
+      internalID: 4811388107271679942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_50
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 649
+        width: 123
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f4e97a3ee264480800000000000000
+      internalID: -8915386857028694176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_51
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 672
+        width: 145
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec7b6087d0ae30b0800000000000000
+      internalID: -5746979227045233425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_52
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 645
+        width: 141
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be54f15869140860800000000000000
+      internalID: 7495143615693610675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_53
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 652
+        width: 106
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df4d43b1c9d363d0800000000000000
+      internalID: -3214486283052298282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_54
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 722
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24aafcf7275d7e600800000000000000
+      internalID: 497600971595033154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_55
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 652
+        width: 135
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be85f2e69391f330800000000000000
+      internalID: 3742935041583713976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_56
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 340
+        width: 164
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d468b3a60f5bf0c0800000000000000
+      internalID: -4540931317151800108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_57
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 334
+        width: 172
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaf196a3a1e387b0800000000000000
+      internalID: -5223083049829139808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_58
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 341
+        width: 112
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce8bbf4c5495aa80800000000000000
+      internalID: -8456189601122644286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_59
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 332
+        width: 134
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac182334e00d7c30800000000000000
+      internalID: 4358640994475318441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_60
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 354
+        width: 182
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2954e4947185dc0800000000000000
+      internalID: -3650141894370553142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_61
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 340
+        width: 159
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921cb3ec2d3553d60800000000000000
+      internalID: 7869288088768069929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_62
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 336
+        width: 110
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fc86b541b6de3d0800000000000000
+      internalID: -3175764427049218285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_63
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 332
+        width: 154
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30839eded86b74d80800000000000000
+      internalID: -8266437870317127677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_64
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 445
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3b691bf9a3dabd0800000000000000
+      internalID: -2617371350878735371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_65
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 414
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27bb38f99829f8b0800000000000000
+      internalID: -5118014859770087633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_66
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 360
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3f4952c764397d0800000000000000
+      internalID: -2912907034958171149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_67
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 334
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0a48f29e843d6d0800000000000000
+      internalID: -2966947563145223998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_68
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 339
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b83a3f1cb7c00980800000000000000
+      internalID: -8574634079721736012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_69
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 22
+        width: 157
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde7f3c4d5b5c4160800000000000000
+      internalID: 7011079176178335452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_70
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 21
+        width: 151
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b993818eeb8ac740800000000000000
+      internalID: 5173100978479798708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_71
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 16
+        width: 113
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2228246d09f7e570800000000000000
+      internalID: 8496033057967972910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_72
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 20
+        width: 128
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f73734c3d147d9f0800000000000000
+      internalID: -443813660486846472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_73
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 49
+        width: 171
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff42548bce12d060800000000000000
+      internalID: 6976672632197500913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_74
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7af3f4f149bb850800000000000000
+      internalID: 6393866958177019811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_75
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 17
+        width: 155
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d639c88c51a688c30800000000000000
+      internalID: 4361852880899838829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_76
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 21
+        width: 124
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb25eeeb5a863790800000000000000
+      internalID: -7550695597785404417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue guy_77
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 42
+        width: 145
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537002b390b194950800000000000000
+      internalID: 6433703269136074549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blue guy_0: 7071816657462246341
+      blue guy_1: 9014144004217225101
+      blue guy_10: 828315287339035967
+      blue guy_11: 8468020415352165814
+      blue guy_12: -4214042371475751648
+      blue guy_13: -1989949849735928155
+      blue guy_14: -3217701849927802984
+      blue guy_15: 6473097274135104823
+      blue guy_16: -1663691247263533754
+      blue guy_17: -7475187945361220150
+      blue guy_18: 5780437797880981346
+      blue guy_19: -3012203368416486663
+      blue guy_2: 7057091573283355951
+      blue guy_20: -1125286989639779668
+      blue guy_21: -3031035355969358842
+      blue guy_22: 8284559374335171985
+      blue guy_23: -7348149163857993325
+      blue guy_24: -5194520880431152809
+      blue guy_25: -735403142526546446
+      blue guy_26: -7886397494313605059
+      blue guy_27: -3526679598075963361
+      blue guy_28: -1619038253114107350
+      blue guy_29: -5009444668101328028
+      blue guy_3: 1620688212539013226
+      blue guy_30: -5959808916786793627
+      blue guy_31: 996885152831733038
+      blue guy_32: -4001305618001935916
+      blue guy_33: 7724672197896863788
+      blue guy_34: -1640652521721131239
+      blue guy_35: -7129158404747635173
+      blue guy_36: -7405219824846004062
+      blue guy_37: 2583346346283471671
+      blue guy_38: -1776605401831578879
+      blue guy_39: 4885773031524901108
+      blue guy_4: 1661383102372961745
+      blue guy_40: 3385656520082153072
+      blue guy_41: 5738138182311442678
+      blue guy_42: -6239104311554005020
+      blue guy_43: 1901888291644964665
+      blue guy_44: -4409902841458250219
+      blue guy_45: 2405370661116363769
+      blue guy_46: -62417061449723276
+      blue guy_47: -3007902036084205664
+      blue guy_48: -3431060768739894714
+      blue guy_49: 4811388107271679942
+      blue guy_5: -5199872849288660853
+      blue guy_50: -8915386857028694176
+      blue guy_51: -5746979227045233425
+      blue guy_52: 7495143615693610675
+      blue guy_53: -3214486283052298282
+      blue guy_54: 497600971595033154
+      blue guy_55: 3742935041583713976
+      blue guy_56: -4540931317151800108
+      blue guy_57: -5223083049829139808
+      blue guy_58: -8456189601122644286
+      blue guy_59: 4358640994475318441
+      blue guy_6: 1383967600808503879
+      blue guy_60: -3650141894370553142
+      blue guy_61: 7869288088768069929
+      blue guy_62: -3175764427049218285
+      blue guy_63: -8266437870317127677
+      blue guy_64: -2617371350878735371
+      blue guy_65: -5118014859770087633
+      blue guy_66: -2912907034958171149
+      blue guy_67: -2966947563145223998
+      blue guy_68: -8574634079721736012
+      blue guy_69: 7011079176178335452
+      blue guy_7: 2857503232654437338
+      blue guy_70: 5173100978479798708
+      blue guy_71: 8496033057967972910
+      blue guy_72: -443813660486846472
+      blue guy_73: 6976672632197500913
+      blue guy_74: 6393866958177019811
+      blue guy_75: 4361852880899838829
+      blue guy_76: -7550695597785404417
+      blue guy_77: 6433703269136074549
+      blue guy_8: -4987070233533370914
+      blue guy_9: 1574163194124814090
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
