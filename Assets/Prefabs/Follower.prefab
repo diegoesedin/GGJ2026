@@ -49,12 +49,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PersonView
   _settings:
-    DetectRange: 3
-    FollowSpeed: 5
+    InteractRange: 2
+    FollowSpeed: 8
     SmoothTime: 0.2
     StoppingDistance: 2
-    PatrolRadius: 6
+    PatrolRadius: 10
     PatrolPeriod: 1.5
+    PlayerDetectRange: 8
     PlayerLayer:
       serializedVersion: 2
       m_Bits: 64

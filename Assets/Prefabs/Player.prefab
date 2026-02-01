@@ -49,7 +49,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb9d692418bf4c0e92b9899b78a178cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerView
-  _moveSpeed: 5
+  _moveSpeed: 8
   _spriteRenderer: {fileID: 4524167926381805537}
   _animator: {fileID: 4543810553178837322}
 --- !u!114 &8368495952849100987
@@ -64,7 +64,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 752b973bd221e5a4f83b7ef90121d975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerInteraction
-  FollowerNumber: 0
   CurrentMaskType: 0
   _renderer: {fileID: 4524167926381805537}
   _animator: {fileID: 4543810553178837322}
@@ -72,6 +71,8 @@ MonoBehaviour:
   greenController: {fileID: 9100000, guid: 4b525f9f338e31a45b791865a573d83e, type: 2}
   redController: {fileID: 9100000, guid: 1a9764f34641c8a48acc5345afe56384, type: 2}
   yellowController: {fileID: 9100000, guid: 56f77e2098332a84fb6c1aa23940b5d7, type: 2}
+  People: []
+  _maskUI: {fileID: 0}
 --- !u!212 &4524167926381805537
 SpriteRenderer:
   serializedVersion: 2

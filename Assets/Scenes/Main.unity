@@ -1014,7 +1014,7 @@ MonoBehaviour:
     CustomLookAtTarget: 0
   Lens:
     FieldOfView: 34
-    OrthographicSize: 15.65
+    OrthographicSize: 10
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
@@ -1173,7 +1173,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 15.65
+  orthographic size: 10
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -3124,6 +3124,7 @@ MonoBehaviour:
   _gameOverCanvas: {fileID: 2101539760960201001}
   _playerScript: {fileID: 1568204608}
   _spawnerScript: {fileID: 0}
+  RemaningLeaders: 0
 --- !u!4 &1762479945
 Transform:
   m_ObjectHideFlags: 0
@@ -3953,6 +3954,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3813327388771428038, guid: 84b26b93b40584246bf8a2e683ddbcdb, type: 3}
+      propertyPath: _player
+      value: 
+      objectReference: {fileID: 7562205121747243093}
     - target: {fileID: 4707954278003464027, guid: 84b26b93b40584246bf8a2e683ddbcdb, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -4175,6 +4180,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 148eff6cb0d32434da6af117ca5cd70c, type: 3}
+--- !u!114 &7562205121747243093 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8368495952849100987, guid: 148eff6cb0d32434da6af117ca5cd70c, type: 3}
+  m_PrefabInstance: {fileID: 7562205121747243092}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 752b973bd221e5a4f83b7ef90121d975, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerInteraction
 --- !u!1001 &8784814894662190505
 PrefabInstance:
   m_ObjectHideFlags: 0
