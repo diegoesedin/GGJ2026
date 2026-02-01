@@ -3,7 +3,6 @@ using System.Collections.Generic;
 
 public class PlayerInteraction : MonoBehaviour, IMaskHolder
 {
-    public int FollowerNumber;
     public MaskType CurrentMaskType;
     [SerializeField] private SpriteRenderer _renderer;
     
@@ -12,7 +11,7 @@ public class PlayerInteraction : MonoBehaviour, IMaskHolder
     [SerializeField] private RuntimeAnimatorController greenController;
     [SerializeField] private RuntimeAnimatorController redController;
     [SerializeField] private RuntimeAnimatorController yellowController;
-    private List<PersonView> _people = new List<PersonView>();
+    public List<PersonView> People = new List<PersonView>();
 
     [SerializeField] private Animator _maskUI;
 
@@ -34,18 +33,18 @@ public class PlayerInteraction : MonoBehaviour, IMaskHolder
 
     private void AddFollower(PersonView person)
     {
-        _people.Add(person);
+        People.Add(person);
     }
 
     private void DestroyFollower()
     {
-        if (_people.Count == 0)
+        if (People.Count == 0)
         {
             LoseGame();
             return;
         }
-        PersonView follower = _people[_people.Count - 1];
-        _people.RemoveAt(_people.Count - 1);
+        PersonView follower = People[People.Count - 1];
+        People.RemoveAt(People.Count - 1);
         Destroy(follower.gameObject);
     }
 
@@ -66,7 +65,7 @@ public class PlayerInteraction : MonoBehaviour, IMaskHolder
         CurrentMaskType = (MaskType)(((int)CurrentMaskType + 1) % 4);
         //_renderer.color = MaskColor.GetMaskColor(CurrentMaskType);
         UpdatePlayerAnimator();
-        foreach (var person in _people)
+        foreach (var person in People)
         {
             //person.CurrentMaskType = CurrentMaskType;
             person.GetComponent<SpriteRenderer>().color = MaskColor.GetMaskColor(CurrentMaskType);

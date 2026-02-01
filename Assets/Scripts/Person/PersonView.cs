@@ -48,7 +48,7 @@ public class PersonView : MonoBehaviour, IPersonView, IMaskHolder
         if (_settings != null)
         {
             Gizmos.color = Color.yellow;
-            Gizmos.DrawWireSphere(transform.position, _settings.DetectRange);
+            Gizmos.DrawWireSphere(transform.position, _settings.InteractRange);
         }
     }
 

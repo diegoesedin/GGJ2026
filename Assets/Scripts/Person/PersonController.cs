@@ -54,8 +54,8 @@ public class PersonController
     {
         // Check surrounding area for the player
         Collider2D hit;
-        if (!_isLeader && _targetToFollow == null ) hit = Physics2D.OverlapCircle(_view.CurrentPosition, _settings.DetectRange, _settings.PlayerLayer | _settings.LeaderLayer);
-        else hit = Physics2D.OverlapCircle(_view.CurrentPosition, _settings.DetectRange, _settings.PlayerLayer );
+        if (!_isLeader && _targetToFollow == null ) hit = Physics2D.OverlapCircle(_view.CurrentPosition, _settings.InteractRange, _settings.PlayerLayer | _settings.LeaderLayer);
+        else hit = Physics2D.OverlapCircle(_view.CurrentPosition, _settings.InteractRange, _settings.PlayerLayer );
 
         if (hit != null)
         {
@@ -111,15 +111,35 @@ public class PersonController
 
     private void Patrol(bool isLeader)
     {
-        if (_moveTimer <= 0f)
+        if (isLeader && Vector2.Distance(_view.CurrentPosition, _playerInteraction.transform.position) < _settings.PlayerDetectRange)
         {
-            _moveTimer = _settings.PatrolPeriod * Random.Range(0f, 1f);
-            _stayInPlace = !_stayInPlace;
-            _randomPoint = _center + Random.insideUnitCircle * _settings.PatrolRadius;
+            int direction = (_playerInteraction.People.Count > _personView.FollowerNumber) ? -1 : 1;
+            _stayInPlace = false;
+            _randomPoint = ((Vector2)_playerInteraction.transform.position -_view.CurrentPosition).normalized * direction * _settings.PlayerDetectRange;
+
+            Vector2 nextPos2 = Vector2.SmoothDamp(
+                _view.CurrentPosition,
+                _randomPoint,
+                ref _currentVelocity,
+                _settings.SmoothTime,
+                _settings.FollowSpeed
+            );
+
+            _view.MoveToPosition(nextPos2, _currentVelocity);
+            return;
         }
         else
         {
-            _moveTimer -= Time.fixedDeltaTime;
+            if (_moveTimer <= 0f)
+            {
+                _moveTimer = _settings.PatrolPeriod * Random.Range(0f, 1f);
+                _stayInPlace = !_stayInPlace;
+                _randomPoint = _center + Random.insideUnitCircle * _settings.PatrolRadius;
+            }
+            else
+            {
+                _moveTimer -= Time.fixedDeltaTime;
+            }
         }
         // Simple random patrol logic within a radius
         if (_stayInPlace) return;
@@ -139,12 +159,13 @@ public class PersonController
 [System.Serializable]
 public class PersonSettings
 {
-    public float DetectRange = 2.0f;
+    public float InteractRange = 2.0f;
     public float FollowSpeed = 5.0f;
     public float SmoothTime = 0.2f;
     public float StoppingDistance = 0.8f;
     public float PatrolRadius = 6.0f;
     public float PatrolPeriod = 1.5f;
+    public float PlayerDetectRange = 8.0f;
     public LayerMask PlayerLayer;
     public LayerMask LeaderLayer;
 }

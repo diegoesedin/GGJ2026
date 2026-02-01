@@ -232,6 +232,10 @@ PrefabInstance:
       propertyPath: CurrentMaskType
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 3326671478050395520, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
+      propertyPath: _settings.PlayerDetectRange
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 5010372531289817369, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
       propertyPath: m_Name
       value: Leader
@@ -251,6 +255,18 @@ PrefabInstance:
     - target: {fileID: 5012650784683697960, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
       propertyPath: m_Color.r
       value: 0.8973778
+      objectReference: {fileID: 0}
+    - target: {fileID: 5894136871855731228, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2900001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5894136871855731228, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2900001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5894136871855731228, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2900001
       objectReference: {fileID: 0}
     - target: {fileID: 5894136871855731228, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2929,6 +2945,10 @@ PrefabInstance:
       propertyPath: CurrentMaskType
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3326671478050395520, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
+      propertyPath: _settings.PlayerDetectRange
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 5010372531289817369, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
       propertyPath: m_Name
       value: Leader
@@ -2948,6 +2968,18 @@ PrefabInstance:
     - target: {fileID: 5012650784683697960, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
       propertyPath: m_Color.r
       value: 0.11671209
+      objectReference: {fileID: 0}
+    - target: {fileID: 5894136871855731228, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2900001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5894136871855731228, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2900001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5894136871855731228, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2900001
       objectReference: {fileID: 0}
     - target: {fileID: 5894136871855731228, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3455,6 +3487,10 @@ PrefabInstance:
       propertyPath: IsMaskless
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3326671478050395520, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
+      propertyPath: _settings.PlayerDetectRange
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 5010372531289817369, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
       propertyPath: m_Name
       value: Leader
@@ -3474,6 +3510,18 @@ PrefabInstance:
     - target: {fileID: 5012650784683697960, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
       propertyPath: m_Color.r
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5894136871855731228, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2900001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5894136871855731228, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2900001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5894136871855731228, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2900001
       objectReference: {fileID: 0}
     - target: {fileID: 5894136871855731228, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3625,6 +3673,10 @@ PrefabInstance:
       propertyPath: CurrentMaskType
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 3326671478050395520, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
+      propertyPath: _settings.PlayerDetectRange
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 5010372531289817369, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
       propertyPath: m_Name
       value: Leader
@@ -3644,6 +3696,18 @@ PrefabInstance:
     - target: {fileID: 5012650784683697960, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
       propertyPath: m_Color.r
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5894136871855731228, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2900001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5894136871855731228, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2900001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5894136871855731228, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2900001
       objectReference: {fileID: 0}
     - target: {fileID: 5894136871855731228, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
       propertyPath: m_LocalPosition.x
