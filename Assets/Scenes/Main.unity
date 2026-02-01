@@ -308,7 +308,11 @@ GameObject:
   - component: {fileID: 126228002}
   - component: {fileID: 126228003}
   m_Layer: 5
+<<<<<<< Updated upstream
   m_Name: GameOverPanel
+=======
+  m_Name: current_mask_sprite
+>>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2509,7 +2513,11 @@ GameObject:
   - component: {fileID: 1245055022}
   - component: {fileID: 1245055021}
   m_Layer: 5
+<<<<<<< Updated upstream
   m_Name: Canvas
+=======
+  m_Name: text
+>>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3863,6 +3871,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 8368495952849100987, guid: 148eff6cb0d32434da6af117ca5cd70c, type: 3}
+      propertyPath: _maskUI
+      value: 
+      objectReference: {fileID: 124564923}
     - target: {fileID: 8475418873667822232, guid: 148eff6cb0d32434da6af117ca5cd70c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
