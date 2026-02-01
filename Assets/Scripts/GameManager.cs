@@ -49,6 +49,8 @@ public class GameManager : MonoBehaviour
         {
             case GameState.MainMenu:
                 HandleMainMenu();
+                // BORRAR
+                ChangeState(GameState.Playing);
                 break;
             case GameState.Playing:
                 HandlePlaying();
