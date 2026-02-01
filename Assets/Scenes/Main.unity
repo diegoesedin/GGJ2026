@@ -313,11 +313,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
---- !u!95 &124564923 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 1870323669515896803, guid: 84b26b93b40584246bf8a2e683ddbcdb, type: 3}
-  m_PrefabInstance: {fileID: 2101539760960201000}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &222619218 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5894136871855731228, guid: 69e779c6cd56e34429a018efe89d48e9, type: 3}
@@ -2455,6 +2450,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb9d692418bf4c0e92b9899b78a178cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerView
+--- !u!114 &1568204613 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8368495952849100987, guid: 148eff6cb0d32434da6af117ca5cd70c, type: 3}
+  m_PrefabInstance: {fileID: 7562205121747243092}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 752b973bd221e5a4f83b7ef90121d975, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerInteraction
 --- !u!1001 &1571294010
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2734,7 +2740,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   _mainMenuCanvas: {fileID: 2101539760960201003}
-  _gameHUDCanvas: {fileID: 2101539760960201002}
+  _gameHUDCanvas: {fileID: 0}
   _gameOverCanvas: {fileID: 2101539760960201001}
   _playerScript: {fileID: 1568204608}
   _spawnerScript: {fileID: 0}
@@ -3489,6 +3495,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3813327388771428038, guid: 84b26b93b40584246bf8a2e683ddbcdb, type: 3}
+      propertyPath: _player
+      value: 
+      objectReference: {fileID: 1568204613}
     - target: {fileID: 4707954278003464027, guid: 84b26b93b40584246bf8a2e683ddbcdb, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -3583,11 +3593,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7595762847102779477, guid: 84b26b93b40584246bf8a2e683ddbcdb, type: 3}
   m_PrefabInstance: {fileID: 2101539760960201000}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &2101539760960201002 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3069705740663683710, guid: 84b26b93b40584246bf8a2e683ddbcdb, type: 3}
-  m_PrefabInstance: {fileID: 2101539760960201000}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2101539760960201003 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8422456449248880567, guid: 84b26b93b40584246bf8a2e683ddbcdb, type: 3}
@@ -3665,7 +3670,7 @@ PrefabInstance:
     - target: {fileID: 8368495952849100987, guid: 148eff6cb0d32434da6af117ca5cd70c, type: 3}
       propertyPath: _maskUI
       value: 
-      objectReference: {fileID: 124564923}
+      objectReference: {fileID: 0}
     - target: {fileID: 8475418873667822232, guid: 148eff6cb0d32434da6af117ca5cd70c, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
