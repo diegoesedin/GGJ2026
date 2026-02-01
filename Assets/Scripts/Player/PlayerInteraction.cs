@@ -57,7 +57,8 @@ public class PlayerInteraction : MonoBehaviour, IMaskHolder
 
     private bool IsConversion(MaskType playerMask, MaskType enemyMask)
     {
-        return ((int)playerMask + 1) % 4 == (int)enemyMask;
+        //return ((int)playerMask + 1) % 4 == (int)enemyMask;
+        return playerMask == enemyMask;
     }
 
     public void ChangeMask()
