@@ -1,3 +1,4 @@
+using System.Runtime.InteropServices.WindowsRuntime;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -21,6 +22,9 @@ public class GameManager : MonoBehaviour
     [SerializeField] private PlayerView _playerScript;
     [SerializeField] private SpawnerView _spawnerScript;
     public GameState CurrentState { get; private set; }
+    public int RemaningLeaders;
+    private bool _hasWon;
+    private bool _gameOver;
 
     private void Awake()
     {
@@ -123,8 +127,21 @@ public class GameManager : MonoBehaviour
         Debug.Log("Saliendo del juego...");
     }
     
-    public void TriggerGameOver()
+    public void TriggerGameOver(bool hasWon)
     {
+        if (_gameOver) return;
+        _gameOver = true;
+        _hasWon = hasWon;
         ChangeState(GameState.GameOver);
+        Debug.Log("Game Over Triggered");
+    }
+
+    public void RemoveLeader()
+    {
+        RemaningLeaders--;
+        if (RemaningLeaders <= 0)
+        {
+            TriggerGameOver(true);
+        }
     }
 }
