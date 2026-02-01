@@ -133,7 +133,7 @@ public class GameManager : MonoBehaviour
         _gameOver = true;
         _hasWon = hasWon;
         ChangeState(GameState.GameOver);
-        Debug.Log("Game Over Triggered");
+        Debug.Log("Game Over Triggered, has won = " + _hasWon);
     }
 
     public void RemoveLeader()
