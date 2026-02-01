@@ -1,0 +1,1831 @@
+fileFormatVersion: 2
+guid: 3d10f68d2fecbe448802283b30588eb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4689444833861802226
+    second: red guy sheet_0
+  - first:
+      213: 5864751699464624920
+    second: red guy sheet_1
+  - first:
+      213: -7875217835987262217
+    second: red guy sheet_2
+  - first:
+      213: -6323370776001769979
+    second: red guy sheet_3
+  - first:
+      213: 4939902274541272424
+    second: red guy sheet_4
+  - first:
+      213: -8980328723014115431
+    second: red guy sheet_5
+  - first:
+      213: 2504097489552219306
+    second: red guy sheet_6
+  - first:
+      213: 3507549733655770749
+    second: red guy sheet_7
+  - first:
+      213: 8297503309598373432
+    second: red guy sheet_8
+  - first:
+      213: -1018881153868268829
+    second: red guy sheet_9
+  - first:
+      213: 6922101777033752323
+    second: red guy sheet_10
+  - first:
+      213: 6738305706702881667
+    second: red guy sheet_11
+  - first:
+      213: 4470846889567982897
+    second: red guy sheet_12
+  - first:
+      213: 7182253608617343410
+    second: red guy sheet_13
+  - first:
+      213: -8075683604551327134
+    second: red guy sheet_14
+  - first:
+      213: 6838249560444375852
+    second: red guy sheet_15
+  - first:
+      213: -3825090116469978872
+    second: red guy sheet_16
+  - first:
+      213: 5485037703981057621
+    second: red guy sheet_17
+  - first:
+      213: 4697047687400719368
+    second: red guy sheet_18
+  - first:
+      213: 2738414765492756745
+    second: red guy sheet_19
+  - first:
+      213: -3127079088260795093
+    second: red guy sheet_20
+  - first:
+      213: 4345345239878721484
+    second: red guy sheet_21
+  - first:
+      213: -2710657686765020095
+    second: red guy sheet_22
+  - first:
+      213: -9138698220240220099
+    second: red guy sheet_23
+  - first:
+      213: 1455312306234927597
+    second: red guy sheet_24
+  - first:
+      213: -8167382136160439460
+    second: red guy sheet_25
+  - first:
+      213: -7289611517984670377
+    second: red guy sheet_26
+  - first:
+      213: -1850834024214109105
+    second: red guy sheet_27
+  - first:
+      213: -7290281470072005528
+    second: red guy sheet_28
+  - first:
+      213: 4432323200854978295
+    second: red guy sheet_29
+  - first:
+      213: -8176547424795303232
+    second: red guy sheet_30
+  - first:
+      213: -4979757852842249850
+    second: red guy sheet_31
+  - first:
+      213: 6962434910187339708
+    second: red guy sheet_32
+  - first:
+      213: -1876734329045760100
+    second: red guy sheet_33
+  - first:
+      213: 2417352424345187194
+    second: red guy sheet_34
+  - first:
+      213: 1612426981190773422
+    second: red guy sheet_35
+  - first:
+      213: -6435019634739135416
+    second: red guy sheet_36
+  - first:
+      213: 9010501114136932081
+    second: red guy sheet_37
+  - first:
+      213: 6552231622498606513
+    second: red guy sheet_38
+  - first:
+      213: -3774543933256012989
+    second: red guy sheet_39
+  - first:
+      213: -7380148944601441094
+    second: red guy sheet_40
+  - first:
+      213: -3010194378489359456
+    second: red guy sheet_41
+  - first:
+      213: -9200796292109394107
+    second: red guy sheet_42
+  - first:
+      213: -3152967335952449965
+    second: red guy sheet_43
+  - first:
+      213: -7900683871662275487
+    second: red guy sheet_44
+  - first:
+      213: 8614059457931822154
+    second: red guy sheet_45
+  - first:
+      213: 1449192292891629357
+    second: red guy sheet_46
+  - first:
+      213: 1252361771115288874
+    second: red guy sheet_47
+  - first:
+      213: -8723127630371243613
+    second: red guy sheet_48
+  - first:
+      213: 8186670157740073269
+    second: red guy sheet_49
+  - first:
+      213: 9080524039612812101
+    second: red guy sheet_50
+  - first:
+      213: 5303750759241160726
+    second: red guy sheet_51
+  - first:
+      213: 7497842126196552199
+    second: red guy sheet_52
+  - first:
+      213: 2991680717653660837
+    second: red guy sheet_53
+  - first:
+      213: -5032178307022089375
+    second: red guy sheet_54
+  - first:
+      213: -5566047923266654781
+    second: red guy sheet_55
+  - first:
+      213: -5040109481569651587
+    second: red guy sheet_56
+  - first:
+      213: 304709221630335799
+    second: red guy sheet_57
+  - first:
+      213: 6626128716130671900
+    second: red guy sheet_58
+  - first:
+      213: -5204351180417032597
+    second: red guy sheet_59
+  - first:
+      213: -989175380406923989
+    second: red guy sheet_60
+  - first:
+      213: 5523913935118567123
+    second: red guy sheet_61
+  - first:
+      213: -3514866576497995530
+    second: red guy sheet_62
+  - first:
+      213: 5261976637775041641
+    second: red guy sheet_63
+  - first:
+      213: 6485976925917255058
+    second: red guy sheet_64
+  - first:
+      213: -1965272467883794449
+    second: red guy sheet_65
+  - first:
+      213: 4828336510648052049
+    second: red guy sheet_66
+  - first:
+      213: 4457182389744482970
+    second: red guy sheet_67
+  - first:
+      213: 594379726997206813
+    second: red guy sheet_68
+  - first:
+      213: 6237270536198054743
+    second: red guy sheet_69
+  - first:
+      213: -1141556419729418832
+    second: red guy sheet_70
+  - first:
+      213: 948042092184784545
+    second: red guy sheet_71
+  - first:
+      213: -313952125400439756
+    second: red guy sheet_72
+  - first:
+      213: 1180704194321607602
+    second: red guy sheet_73
+  - first:
+      213: 8361874110864544930
+    second: red guy sheet_74
+  - first:
+      213: 1241680509271024646
+    second: red guy sheet_75
+  - first:
+      213: 4909378111769606350
+    second: red guy sheet_76
+  - first:
+      213: 6254155624135536113
+    second: red guy sheet_77
+  - first:
+      213: 8076183909119196250
+    second: red guy sheet_78
+  - first:
+      213: 7647867937328776496
+    second: red guy sheet_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red guy sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0760e3f4cebbeeb0800000000000000
+      internalID: -4689444833861802226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b157e0998c36150800000000000000
+      internalID: 5864751699464624920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4a8255a1b95b290800000000000000
+      internalID: -7875217835987262217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e045928cfde38a0800000000000000
+      internalID: -6323370776001769979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_4
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d3d2b22fe0e8440800000000000000
+      internalID: 4939902274541272424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f91823b967f5380800000000000000
+      internalID: -8980328723014115431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac15b3466750c220800000000000000
+      internalID: 2504097489552219306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2170
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76719226e15da030800000000000000
+      internalID: 3507549733655770749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8363d3b4c47a62370800000000000000
+      internalID: 8297503309598373432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea77532df43cd1f0800000000000000
+      internalID: -1018881153868268829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f623f24ee301060800000000000000
+      internalID: 6922101777033752323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_11
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3834304d655438d50800000000000000
+      internalID: 6738305706702881667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_12
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1351cd9fe83ab0e30800000000000000
+      internalID: 4470846889567982897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b977649a9d7ca360800000000000000
+      internalID: 7182253608617343410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262a5486c886def80800000000000000
+      internalID: -8075683604551327134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1860
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2312cf9eb756ee50800000000000000
+      internalID: 6838249560444375852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80903f52ecc8aeac0800000000000000
+      internalID: -3825090116469978872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5564a651bb4ce1c40800000000000000
+      internalID: 5485037703981057621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_18
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80407945cf34f2140800000000000000
+      internalID: 4697047687400719368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_19
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90161e078bdc00620800000000000000
+      internalID: 2738414765492756745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_20
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25b9af13226a94d0800000000000000
+      internalID: -3127079088260795093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfd7691974cd4c30800000000000000
+      internalID: 4345345239878721484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c50b0123fc16ad0800000000000000
+      internalID: -2710657686765020095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1550
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3056193362dc2180800000000000000
+      internalID: -9138698220240220099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9236af4de423410800000000000000
+      internalID: 1455312306234927597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5339454831a7ae80800000000000000
+      internalID: -8167382136160439460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_26
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d7de742f816da90800000000000000
+      internalID: -7289611517984670377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_27
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44e288d2448056e0800000000000000
+      internalID: -1850834024214109105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_28
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cdeb7e0a7b3da90800000000000000
+      internalID: -7290281470072005528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feeeacb776c28d30800000000000000
+      internalID: 4432323200854978295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2e0f73071178e80800000000000000
+      internalID: -8176547424795303232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1240
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68130e1ed9854eab0800000000000000
+      internalID: -4979757852842249850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfbe7989a98f9060800000000000000
+      internalID: 6962434910187339708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_33
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c974273321084f5e0800000000000000
+      internalID: -1876734329045760100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_34
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a733606e8392c8120800000000000000
+      internalID: 2417352424345187194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_35
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaa120ebcd706610800000000000000
+      internalID: 1612426981190773422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_36
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cb5b48cb732b6a0800000000000000
+      internalID: -6435019634739135416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fea46c060bbb0d70800000000000000
+      internalID: 9010501114136932081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd5c1902f33eea50800000000000000
+      internalID: 6552231622498606513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 930
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b6b258a402e9bc0800000000000000
+      internalID: -3774543933256012989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc9e87f2a1749990800000000000000
+      internalID: -7380148944601441094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a393455924a936d0800000000000000
+      internalID: -3010194378489359456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_42
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f961e2584305080800000000000000
+      internalID: -9200796292109394107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_43
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ef420c9e86e34d0800000000000000
+      internalID: -3152967335952449965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_44
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16489ead0e12b5290800000000000000
+      internalID: -7900683871662275487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44ce1010794b8770800000000000000
+      internalID: 8614059457931822154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d271a0556b09c1410800000000000000
+      internalID: 1449192292891629357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 620
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a291b914568416110800000000000000
+      internalID: 1252361771115288874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9b35523a931f680800000000000000
+      internalID: -8723127630371243613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_49
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53163653225ec9170800000000000000
+      internalID: 8186670157740073269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_50
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b448bd080840e70800000000000000
+      internalID: 9080524039612812101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_51
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61817cd0735ba9940800000000000000
+      internalID: 5303750759241160726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_52
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702b7e140bfad0860800000000000000
+      internalID: 7497842126196552199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4d12913c5948920800000000000000
+      internalID: 2991680717653660837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163958bcd7c1a2ab0800000000000000
+      internalID: -5032178307022089375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 310
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cde3ea67ec61c2b0800000000000000
+      internalID: -5566047923266654781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7476f1512fed0ab0800000000000000
+      internalID: -5040109481569651587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_57
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bdf033c6b8a3400800000000000000
+      internalID: 304709221630335799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_58
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ddbf8e5fcb4fb50800000000000000
+      internalID: 6626128716130671900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_59
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e9bdcdc2e66c7b0800000000000000
+      internalID: -5204351180417032597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_60
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d884e7b3eb542f0800000000000000
+      internalID: -989175380406923989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d682900572e8ac40800000000000000
+      internalID: 5523913935118567123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f091f2a87fa83fc0800000000000000
+      internalID: -3514866576497995530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red guy sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 0
+        width: 230
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9645cf67fdb460940800000000000000
+      internalID: 5261976637775041641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6b05e5b088bbe9848b129be1f3140d9e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":230.0,"y":310.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.10000000149011612},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      red guy sheet_0: -4689444833861802226
+      red guy sheet_1: 5864751699464624920
+      red guy sheet_10: 6922101777033752323
+      red guy sheet_11: 6738305706702881667
+      red guy sheet_12: 4470846889567982897
+      red guy sheet_13: 7182253608617343410
+      red guy sheet_14: -8075683604551327134
+      red guy sheet_15: 6838249560444375852
+      red guy sheet_16: -3825090116469978872
+      red guy sheet_17: 5485037703981057621
+      red guy sheet_18: 4697047687400719368
+      red guy sheet_19: 2738414765492756745
+      red guy sheet_2: -7875217835987262217
+      red guy sheet_20: -3127079088260795093
+      red guy sheet_21: 4345345239878721484
+      red guy sheet_22: -2710657686765020095
+      red guy sheet_23: -9138698220240220099
+      red guy sheet_24: 1455312306234927597
+      red guy sheet_25: -8167382136160439460
+      red guy sheet_26: -7289611517984670377
+      red guy sheet_27: -1850834024214109105
+      red guy sheet_28: -7290281470072005528
+      red guy sheet_29: 4432323200854978295
+      red guy sheet_3: -6323370776001769979
+      red guy sheet_30: -8176547424795303232
+      red guy sheet_31: -4979757852842249850
+      red guy sheet_32: 6962434910187339708
+      red guy sheet_33: -1876734329045760100
+      red guy sheet_34: 2417352424345187194
+      red guy sheet_35: 1612426981190773422
+      red guy sheet_36: -6435019634739135416
+      red guy sheet_37: 9010501114136932081
+      red guy sheet_38: 6552231622498606513
+      red guy sheet_39: -3774543933256012989
+      red guy sheet_4: 4939902274541272424
+      red guy sheet_40: -7380148944601441094
+      red guy sheet_41: -3010194378489359456
+      red guy sheet_42: -9200796292109394107
+      red guy sheet_43: -3152967335952449965
+      red guy sheet_44: -7900683871662275487
+      red guy sheet_45: 8614059457931822154
+      red guy sheet_46: 1449192292891629357
+      red guy sheet_47: 1252361771115288874
+      red guy sheet_48: -8723127630371243613
+      red guy sheet_49: 8186670157740073269
+      red guy sheet_5: -8980328723014115431
+      red guy sheet_50: 9080524039612812101
+      red guy sheet_51: 5303750759241160726
+      red guy sheet_52: 7497842126196552199
+      red guy sheet_53: 2991680717653660837
+      red guy sheet_54: -5032178307022089375
+      red guy sheet_55: -5566047923266654781
+      red guy sheet_56: -5040109481569651587
+      red guy sheet_57: 304709221630335799
+      red guy sheet_58: 6626128716130671900
+      red guy sheet_59: -5204351180417032597
+      red guy sheet_6: 2504097489552219306
+      red guy sheet_60: -989175380406923989
+      red guy sheet_61: 5523913935118567123
+      red guy sheet_62: -3514866576497995530
+      red guy sheet_63: 5261976637775041641
+      red guy sheet_7: 3507549733655770749
+      red guy sheet_8: 8297503309598373432
+      red guy sheet_9: -1018881153868268829
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
