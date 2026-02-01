@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PersonController
@@ -6,7 +7,7 @@ public class PersonController
     private readonly PersonSettings _settings;
 
     // State
-    private bool _isRecruited = false;
+    public bool IsRecruited = false;
     private Transform _targetToFollow;
     private Vector2 _currentVelocity; // Helper for SmoothDamp
     private PlayerInteraction _playerInteraction;
@@ -29,12 +30,13 @@ public class PersonController
         _targetToFollow = leader;
         if (_targetToFollow != null) _targetToFollow.GetComponent<PersonView>().FollowerNumber++;
         _isLeader = isLeader;
+        if (isLeader) GameManager.Instance.RemaningLeaders++;
     }
 
     // Logic usually called in Update
     public void Tick()
     {
-        if (!_isRecruited)
+        if (!IsRecruited)
         {
             ScanForPlayer();
         }
@@ -70,9 +72,9 @@ public class PersonController
 
         if (leader.GetComponent<PlayerInteraction>() != null)
         {
-            _isRecruited = true;
+            IsRecruited = true;
             _playerInteraction.CalculateEncounter(_personView);
-
+            if (_isLeader) GameManager.Instance.RemoveLeader();
         }
         else
         {

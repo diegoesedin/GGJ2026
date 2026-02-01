@@ -51,7 +51,7 @@ public class PlayerInteraction : MonoBehaviour, IMaskHolder
     private void LoseGame()
     {
         AudioManager.Instance.PlayDeathSound();
-        GameManager.Instance.TriggerGameOver();
+        GameManager.Instance.TriggerGameOver(false);
         Debug.Log("Game Over");
     }
 
