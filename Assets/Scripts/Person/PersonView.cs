@@ -15,6 +15,7 @@ public class PersonView : MonoBehaviour, IPersonView, IMaskHolder
     private Rigidbody2D _rb;
     public MaskType CurrentMaskType;
     public bool IsMaskless;
+    public int FollowerNumber;
 
     #region Unity Lifecycle
 
